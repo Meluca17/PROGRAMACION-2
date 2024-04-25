@@ -1,0 +1,320 @@
+
+#include <iostream>
+#include <iomanip>
+#include <cstring>
+#include <fstream>
+#include <streambuf>
+using namespace std;
+#include "FuncionesAuxiliares.h"
+enum prod{COD,DES,PRE,TIP};
+enum cli{DNI,NOM,PED,CRE};
+void cargaproductos(void *&productos,const char*nombArch){
+    ifstream arch(nombArch,ios::in);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    void *buffProd[200]{},*datos,**nuevosProductos;
+    int cantProd=0;
+    while(true){
+        datos=leeProducto(arch);
+        if(arch.eof())break;
+        buffProd[cantProd]=datos;
+        cantProd++;
+    }
+    nuevosProductos=new void *[cantProd+1]{};
+    for(int i=0;i<cantProd;i++){
+        nuevosProductos[i]=buffProd[i];
+    }
+    productos=nuevosProductos;
+}
+
+void *leeProducto(ifstream &arch){
+    char *producto,*lineaCred=new char,*descripcion;
+    double *precio=new double;
+    void **datos;
+    producto=leeCadenaExacta(arch,',');
+    if(arch.eof())return nullptr;
+    descripcion=leeCadenaExacta(arch,',');
+    arch>>*precio;
+    arch.get();
+    arch>>lineaCred>>ws;
+    datos=new void*[4]{};
+    datos[COD]=producto;
+    datos[DES]=descripcion;
+    datos[PRE]=precio;
+    datos[TIP]=lineaCred;
+    return datos;
+}
+
+char *leeCadenaExacta(ifstream &arch,char limitador){
+    char cadena[60],*nuevaCade;
+    arch.getline(cadena,60,limitador);
+    if(arch.eof())return nullptr;
+    nuevaCade=new char [strlen(cadena)+1];
+    strcpy(nuevaCade,cadena);
+    return nuevaCade;
+}
+
+void imprimirProductos(void *productos,const char*nombArch){
+    ofstream arch(nombArch,ios::out);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    arch<<setw(60)<<" "<<"REPORTE DE PRODUCTOS"<<endl;
+    imprimeLineas(arch,'=');
+    arch<<"   CODIGO"<<setw(10)<<" "<<"DESCRIPCION"<<setw(60)<<" "<<"PRECIO"<<
+            setw(10)<<" "<<"TIPO"<<endl;
+    imprimeLineas(arch,'-');
+    void **auxProductos=(void **)productos;
+    for(int i=0;auxProductos[i];i++){
+        imprimirDatosDelProducto(arch,auxProductos[i]);
+        arch<<endl;
+    }
+}
+void imprimirDatosDelProducto(ofstream &arch,void *auxProductos){
+    void **producto=(void **)auxProductos;
+    char *tipo,*descripcion,*codigo;
+    double *precio;
+    codigo=(char *)producto[COD];
+    descripcion=(char *)producto[DES];
+    precio=(double *)producto[PRE];
+    tipo=(char *)producto[TIP];
+    arch<<fixed;
+    arch.precision(2);
+    arch<<"  "<<setw(7)<<codigo<<setw(9)<<" "<<setw(60)<<left<<descripcion<<right<<setw(21)
+            <<" "<<setw(10)<<*precio<<setw(7)<<" "<<tipo;
+            
+}
+void cargaclientes(void *&clientes,const char *nombArch){
+    ifstream arch(nombArch,ios::in);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    void *buffClientes[200]{},*datos,**nuevoBuff;
+    int cantClientes=0;
+    while(true){
+        datos=leerDatosDelCliente(arch);
+        if(arch.eof())break;
+        buffClientes[cantClientes]=datos;
+        cantClientes++;
+    }
+    nuevoBuff=new void *[cantClientes+1]{};
+    for(int i=0;i<cantClientes;i++){
+        nuevoBuff[i]=buffClientes[i];
+    }
+    clientes=nuevoBuff;
+}
+void *leerDatosDelCliente(ifstream &arch){
+    int *dni=new int,telefono,*lineaCred=new int;
+    char *nombre;
+    arch>>*dni;
+    if(arch.eof())return nullptr;
+    arch.get();
+    nombre=leeCadenaExacta(arch,',');
+    arch>>telefono;
+    arch.get();
+    arch>>*lineaCred;
+    void **datos=new void*[4]{};
+    datos[DNI]=dni;
+    datos[NOM]=nombre;
+    datos[PED]=nullptr;
+    datos[CRE]=lineaCred;
+    return datos;
+    
+}
+
+void imprimeClientes(void *clientes,const char *nombArch){
+    ofstream arch(nombArch,ios::out);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    arch<<setw(60)<<" "<<"REPORTE DE CLIENTES"<<endl;
+    imprimeLineas(arch,'=');
+    arch<<"   DNI"<<setw(10)<<" "<<"NOMBRE"<<setw(46)<<" "<<"LINEA DE CREDITO"<<endl;
+    imprimeLineas(arch,'-');
+    void **aux=(void **)clientes;
+    for(int i=0;aux[i];i++){
+        imprimirDatosDelCliente(aux[i],arch);
+    }
+}
+void imprimirDatosDelCliente(void *cliente ,ofstream &arch){
+    void **auxCliente=(void **)cliente;
+    char *nombre;
+    int *dni,*lineaCred;
+    dni=(int *)auxCliente[DNI];
+    nombre=(char *)auxCliente[NOM];
+    lineaCred=(int *)auxCliente[CRE];
+    arch<<" "<<setw(8)<<*dni<<setw(5)<<" "<<setw(55)<<left<<nombre<<right<<
+            setw(10)<<*lineaCred<<endl;
+}
+
+void cargapedidos(void *productos,void *&clientes,const char *nombArch){
+    ifstream arch(nombArch,ios::in);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    void **auxClientes=(void**)clientes;
+    void **auxProductos=(void**)productos;
+    int cantPedidos[200]{},cantidad,dni,posCliente,posProducto;
+    char *cod,car;
+    while(true){
+        cod=leeCadenaExacta(arch,',');
+        if(arch.eof())break;
+        arch>>dni>>car>>cantidad>>ws;
+        posCliente=buscarCliente(clientes,dni);
+        if(posCliente!=-1){
+            posProducto=buscarProducto(productos,cod);
+            agregadirPedidos(auxClientes[posCliente],auxProductos[posProducto],
+                    cantidad,dni,cod,cantPedidos[posCliente]);
+        }
+    }
+    for(int i=0;auxClientes[i];i++){
+        recortaPedidos(auxClientes[i],cantPedidos[i]);
+    }
+
+}
+void recortaPedidos(void *cliente,int cantPedidos){
+    void **auxCliente=(void **)cliente;
+    eliminarEspacios(auxCliente[PED],cantPedidos);
+}
+void eliminarEspacios(void *&cliente,int cantPedidos){
+    void **auxCliente=(void **)cliente;
+    if(cantPedidos>0){
+        void **aux2=new void*[cantPedidos+1]{};
+        for(int i=0;i<cantPedidos;i++){
+            aux2[i]=auxCliente[i];
+        }
+        delete auxCliente;
+        auxCliente=aux2;
+        cliente=auxCliente;
+    }
+    else{
+        delete auxCliente;
+        cliente=nullptr;
+    }
+}
+void agregadirPedidos(void *cliente,void *producto,int cantidad,int dni,char *cod,
+                    int &cantPedidos){
+    void **auxCliente=(void **)cliente;
+    void **auxProducto=(void **)producto;
+    if(cantPedidos==0){
+        auxCliente[PED]=new void*[200]{};
+    }
+    char *lineaCred=(char *)auxProducto[TIP];
+    int *cantLineaCred=(int *)auxCliente[CRE];
+    double total,*precio=(double *)auxProducto[PRE];
+    if(*lineaCred=='S'){
+        total=cantidad*(*precio);
+//        cout<<total<<" "<<*cantLineaCred<<endl;
+        if(*cantLineaCred>=total){
+            agregaProducto(auxCliente[PED],total,cod,cantidad,cantPedidos);
+            *cantLineaCred-=total;
+//            auxCliente[CRE]=cantLineaCred;
+//            cout<<*cantLineaCred<<endl;
+            cantPedidos++;
+        }
+    }
+    else{
+        agregaProducto(auxCliente[PED],total,cod,cantidad,cantPedidos);
+        cantPedidos++;
+                
+    }
+}
+void agregaProducto(void *pedidos,double total,char *cod,int cantidad,int cantPedidos){
+    void **auxPedidos=(void **)pedidos;
+    int *cantidadPedido=new int;
+    double *totalPedido=new double;
+    *cantidadPedido=cantidad;
+    *totalPedido=total;
+    void **datos=new void*[3];
+    datos[0]=cod ;
+    datos[1]=cantidadPedido ;
+    datos[2]=totalPedido ;
+    auxPedidos[cantPedidos]=datos;
+//    auxPedidos
+    
+}
+int buscarProducto(void *productos,char *cod){
+    void **aux=(void **)productos;
+    for(int i=0;aux[i];i++){
+        if(comparaProducto(aux[i],cod)==0)return i;
+    }
+    return -1;
+}
+int comparaProducto(void *producto,char *cod){
+    void **aux=(void **)producto;
+    char *cad ;
+    cad=(char *)aux[COD];
+    int val=strcmp(cad,cod);
+    return val;
+}
+int buscarCliente(void *clientes,int dni){
+    void **aux=(void **)clientes;
+    for(int i=0;aux[i];i++){
+        if(comparar(aux[i],dni))return i;
+    }
+    return -1;
+}
+bool comparar(void *cliente,int dni){
+    void **aux=(void **)cliente;
+    int *dniC=(int *)aux[DNI];
+    return dni==*dniC;
+}
+void imprimeLineas(ofstream &arch,char car){
+    for(int i=0;i<200;i++)arch.put(car);
+    
+    arch<<endl;
+}
+
+void imprimeReporte(void *clientes,const char*nombArch){
+        ofstream arch(nombArch,ios::out);
+    if(not arch.is_open()){
+        cout<<"ERROR: archivo "<<nombArch<<endl;
+        exit(1);
+    }
+    arch<<setw(60)<<" "<<"REPORTE DE PEDIDOS"<<endl;
+    imprimeLineas(arch,'=');
+    void **auxClientes=(void **)clientes;
+    for(int i=0;auxClientes[i];i++){
+        imprimirCliente(arch,auxClientes[i]);
+    }
+}
+
+void imprimirCliente(ofstream &arch,void *clientes){
+    void **cliente=(void **)clientes;
+    int *dni=(int*)cliente[DNI];
+    int *credito=(int*)cliente[CRE];
+    char *nombre=(char*)cliente[NOM];
+    arch<<fixed;
+    arch.precision(2);
+    arch<<"DNI:"<<*dni<<endl;
+    arch<<"NOMBRE:"<<nombre<<endl;
+    arch<<"CREDITO:"<<*credito<<endl;
+    imprimeLineas(arch,'-');
+    arch<<"PEDIDOS ATENDIDOS"<<endl;
+    imprimeLineas(arch,'-');
+    arch<<"CODIGO"<<setw(10)<<" "<<"CANTIDAD"<<setw(10)<<" "<<"PRECIO"<<endl;
+    imprimeLineas(arch,'-');
+    if(cliente[PED]!=nullptr){
+        imprimePedidos(arch,cliente[PED]);
+    }
+    imprimeLineas(arch,'=');
+}
+void imprimePedidos(ofstream &arch,void *pedidos){
+    void **auxPedidos=(void **)pedidos;
+    for(int i=0;auxPedidos[i];i++){
+        imprimeCadaPedido(auxPedidos[i],arch);
+    }
+}
+void imprimeCadaPedido(void *pedido,ofstream &arch){
+    void **aux=(void **)pedido;
+    int *cantidad=(int*)aux[1];
+    double *total=(double*)aux[2];
+    char *codigo=(char*)aux[0];
+    arch<<setw(7)<<codigo<<setw(5)<<" "<<*cantidad<<setw(5)<<" "<<*total<<endl;
+}
