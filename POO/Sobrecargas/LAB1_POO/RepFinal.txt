@@ -1,0 +1,886 @@
+                                                            REPORTE DE LIBROS
+====================================================================================================
+   CODIGO        NOMBRE DEL LIBRO                                                              AUTOR                    STOCK        PRECIO
+====================================================================================================
+IIM5175        Jose Maria Arguedas                                                   Diamantes y pedernales                                                  0          30.23
+
+YDK7687       Gabriel Garcia Marquez                                                El otonio del patriarca                                                60          82.02
+
+ZOY6470       Hernest Hemingway                                                     El viejo y el mar                                                      25          68.01
+
+ETZ8565       Yukio Mishima                                                         Confesiones de una mascara                                             27         175.68
+
+LQL0880       Umberto Eco                                                           Contra el fascismo                                                     34          71.63
+
+VFZ9435       Javier Traite                                                         El olor de la Edad Media                                               49          96.28
+
+SFZ1256       Homero                                                                La Iliada                                                              34         154.35
+
+EDQ0577       Carlo Collodi                                                         Las aventuras de Pinocho                                               27          31.54
+
+YJI3961       Gabriel Garcia Marquez                                                Cien anios de soledad                                                  45          99.35
+
+VPN5351       Ana Maria Moix                                                        El Amante                                                              27         182.76
+
+PVS2464       Yuval Noah Harari                                                     Sapiens                                                                18         148.82
+
+DVL7760       Arturo Perez-Reverte                                                  Falco                                                                  57          98.18
+
+QRH6838       C. S. Lewis                                                           Las cronicas de Narnia                                                 43         162.37
+
+LDL2628       J.K. Rowling                                                          Harry Potter y el caliz de fuego (Harry Potter 4)                       3         140.97
+
+SBU9053       Alfredo Gonzalez Ruibal                                               Tierra arrasada                                                        34          53.71
+
+ZJM1292       Mario Vargas Llosa                                                    El suenio del celta                                                    52          66.03
+
+CRA4157       Mark Twain                                                            El forastero misterioso                                                39         234.14
+
+RII8346       Alejandro Dumas                                                       Las dos Dianas                                                         23          69.63
+
+JBR9372       Arturo Perez-Reverte                                                  El maestro de esgrima                                                  60           1.94
+
+NEO9165       Mary Beard                                                            Emperador de Roma                                                      65         234.34
+
+TBZ2657       Robert Louis Stevenson                                                Olalla                                                                  5          42.95
+
+IBP7411       Ken Follett                                                           Nunca                                                                  40          68.15
+
+GPH1575       Javier Negrete                                                        La gran aventura de los griegos                                         3          11.18
+
+XIU2628       Arturo Perez-Reverte                                                  Cabo Trafalgar                                                         21          34.25
+
+DDT0017       Louis Ferdinand Celine                                                Viaje al fin de la noche                                               38         125.28
+
+ILG7766       Homero                                                                Iliada                                                                  7         296.63
+
+HGQ0131       Homero                                                                Odisea                                                                 22          62.13
+
+HLB4548       Mary W. Shelley                                                       Frankenstein o el moderno Prometeo                                     18         118.29
+
+SQB7146       Gabriel Garcia Marquez                                                Cronica de una muerte anunciada                                        31          83.99
+
+VHK9148       Isaac Asimov                                                          Historia y cronologia del mundo                                        63          14.07
+
+MVU0233       Dan Brown                                                             La conspiracioni                                                       60         192.02
+
+KWL0415       Roberto Villa Garcia                                                  1923                                                                   24          78.57
+
+WPU8819       Laurence Sterne                                                       Tristam Shandy                                                         47          59.08
+
+JTX5687       Julio Verne                                                           Veinte mil leguas de viaje submarino                                   29          72.66
+
+HCT8192       Ana FranK                                                             Diario                                                                 63          99.10
+
+OMN0252       Fiodor Dostoyevski                                                    Los hermanos Karamazov                                                 42         241.73
+
+CKC4095       F. Scott Fitzgerald                                                   El Gran Gatsby                                                         26          32.40
+
+JLQ6546       J.R.R.Tolkien                                                         El retorno del Rey                                                     37          48.76
+
+MSW8176       Chinua Achebe                                                         Todo se desmorona                                                      23          37.03
+
+TDY0497       Paula Hawkins                                                         La chica del tren                                                      40          62.79
+
+NBL8415       Daniel Aquillue                                                       Espania con honra                                                      50         252.00
+
+IMC3155       Ken Follett                                                           Los pilares de la tierra                                               35         182.44
+
+FWK6327       Fiodor Dostoyevski                                                    El doble                                                               24         109.19
+
+GQC1814       Umberto Eco                                                           Apocalipticos e integrados                                             26           1.08
+
+PRD1648       Gabriel Garcia Marquez                                                Relato de un naufrago                                                  10          71.86
+
+SBF7018       Rudyard Kipling                                                       El handicap de la vida                                                  2          71.69
+
+LVP3355       Arthur Conan Doyle                                                    Las aventuras de Sherlock Holmes                                       35          50.40
+
+FBO8724       Umberto Eco                                                           El pendulo de Foucault                                                 64         104.07
+
+WCZ0845       Umberto Eco                                                           El cementerio de Praga                                                  5         154.00
+
+WOF6634       Arturo Perez-Reverte                                                  El problema final                                                      64         174.46
+
+CUV7849       Jorge Luis Borges                                                     Ficciones                                                              50         255.52
+
+VMW6915       Mario Vargas Llosa                                                    Travesuras de la ninia mala                                            12         292.26
+
+MBQ9495       George R.R.Martin                                                     Tormenta de espadas                                                    27         202.58
+
+LQA8555       Gustavo Adolfo Becquer                                                Rimas y leyendas                                                       14         248.74
+
+IMK4892       Arturo Perez-Reverte                                                  La tabla de Flandes                                                    21         272.34
+
+QCA9584       Robert Louis Stevenson                                                Dr. Jekyll y Mr. Hyde                                                  27         168.95
+
+XJT3661       Mark Twain                                                            Las aventuras de Tom Sawye                                             65          36.07
+
+THT4126       J. K. Rowling                                                         Harry Potter y las reliquias de la muerte (Harry Potter 7)             15         195.13
+
+PZP7176       Ken Follett                                                           La caida de los gigantes                                               28          15.93
+
+UQL8643       Bram Stoker                                                           Dracula                                                                23          15.12
+
+RLQ7170       Arturo Perez-Reverte                                                  El tango de la guardia vieja                                           65         114.29
+
+KTA8754       James Joyce                                                           Ulises                                                                 22          37.22
+
+TOJ1764       Jose Saramago                                                         Ensayo sobre la ceguera                                                40         154.27
+
+GWE4133       Edgar Allan Poe                                                       El gato negro y otros cuentos                                          64         298.03
+
+ZPD6557       William Faulkner                                                      El ruido y la furia                                                    10         267.59
+
+IUG2294       Franz Kafka                                                           El proceso                                                             17         129.10
+
+WGA2754       Arturo Perez-Reverte                                                  El club Dumas                                                           8         124.58
+
+YJE2497       John Bunyan                                                           Progreso del peregrino                                                 65          88.79
+
+XCC4070       Arturo Perez-Reverte                                                  El italiano                                                            16         111.54
+
+OBD2849       Ken Follett                                                           El invierno del mundo                                                  51          76.39
+
+UCJ9882       Alejo Carpentier                                                      El reino de este mundo                                                 20          54.97
+
+QVU3526       Julio Albi de la Cuesta                                               Vidas intrepidas                                                       45          49.89
+
+VTY5195       Arturo Perez-Reverte                                                  Un asunto de honor                                                     48         184.37
+
+FKK6524       Torcuato Luca de Tena                                                 Los renglones torcidos de Dios                                         36          55.95
+
+KPE7420       Charlotte Brontë                                                      Jane Eyre                                                              31         288.51
+
+MWB2923       Lara Maiklem                                                          Mudlarking                                                             55         195.24
+
+ISY5671       J. K. Rowling                                                         Harry Potter y la piedra filosofal (Harry Potter 1)                    23          33.90
+
+NBE1339       Luz Gabas                                                             Palmeras en la nieve                                                   20         122.65
+
+JHP0390       Alexandre Dumas                                                       El conde de Montecristo                                                 5         133.79
+
+OWU1533       John Julius Norwich                                                   Cuatro principes                                                       31         213.86
+
+SFR1226       Lucy Maud Montgomery                                                  Ana la de las tejas verdes                                              2         193.39
+
+HRT0664       Gabriel Garcia Marquez                                                Los funerales de la Mama Grande                                        42          76.33
+
+HPP3360       Arturo Perez-Reverte                                                  El pintor de batallas                                                  53          12.72
+
+DND9446       Margaret Mitchell                                                     Lo que el viento se llevo                                              58         129.25
+
+LJD9991       Umberto Eco                                                           Baudolino                                                               6         197.87
+
+XIU6076       George Orwell                                                         Rebelion en la granja                                                  40         232.77
+
+PWX7633       Mario Vargas Llosa                                                    La tia Julia y el escribidor                                           40         278.80
+
+UXZ2187       Stephen R. Covey                                                      Los 7 habitos de la gente altamente efectiva                           35         114.50
+
+UEJ1235       Charles Dickens                                                       Grandes esperanzas                                                     64         129.07
+
+DDQ0721       Marcel Proust                                                         En busca del tiempo perdido                                            50         250.24
+
+HWM4049       Colleen Hoover                                                        Romper el circulo                                                      61         201.21
+
+EWI3090       Virginia Woolf                                                        La seniora Dalloway                                                    17          46.34
+
+JZC7527       Gunter Grass                                                          El tambor de hojalata                                                   2         147.44
+
+WYE2119       Arturo Perez-Reverte                                                  El asedio                                                              46          90.66
+
+YKQ9278       Lewis Carroll                                                         Alicia en el pais de las maravillas                                    23          94.02
+
+ZNF2241       Robert Louis Stevenson                                                El extranio caso del Dr. Jekyll y Mr. Hyde                             47         187.19
+
+CTW5846       Mario Merlino                                                         El medievo cristiano                                                    2         213.41
+
+FWP8469       Charles Dickens                                                       Justine o los infortunios                                              31         260.00
+
+CRY6839       William Shakespeare                                                   Ricardo III                                                            43         159.10
+
+WMN3648       E. M. Forster                                                         Pasaje a la India                                                       4          61.94
+
+QBL9575       Victor Hugo                                                           Los miserables                                                         53         287.51
+
+VOI0019       Jose Saramago                                                         El evangelio según Jesucristo                                          52           2.32
+
+TMR5068       Alejandro Dumas                                                       Los tres mosqueteros                                                   52         254.78
+
+RWW7975       Umberto Eco                                                           El nombre de la rosa                                                   47         251.27
+
+LJE6687       Dan Brown                                                             El codigo Da Vinci                                                     34         151.29
+
+PPI9259       Arturo Perez-Reverte                                                  Revolucion                                                             55          89.88
+
+ZYF6683       J. K. Rowling                                                         Harry Potter y la Orden del Fenix ( Harry Potter 5)                    27         280.76
+
+GKG6581       Arturo Perez-Reverte                                                  Hombres buenos                                                         44         100.33
+
+WWT1581       Arturo Perez-Reverte                                                  La piel del tambor                                                     57          15.88
+
+CMP1150       Miguel de Cervantes                                                   Don Quijote de la Mancha                                               27          19.50
+
+CPE5718       Hernest Hemingway                                                     Paris era una fiesta                                                   50         254.78
+
+SHF2360       Arturo Perez-Reverte                                                  Un dia de colera                                                       10          19.44
+
+ETV5056       Herman Melville                                                       Moby Dick                                                              31         199.59
+
+USE5598       Dan Brown                                                             Fortaleza digitali                                                     38         212.47
+
+TVR7016       Joseph Conrad                                                         El corazon de las tinieblas                                            32         196.32
+
+BSX2922       Arturo Perez-Reverte                                                  Una historia de Espania                                                 1         146.19
+
+GXB5722       Emily Brontë                                                          Cumbres borrascosas                                                    45         141.69
+
+ZLE2920       Indro Montanelli                                                      Historia de la Edad Media                                              28         208.38
+
+MNL3677       J.R.R. Tolkien                                                        El Hobbit                                                              41         205.14
+
+ZAL2738       George Orwell                                                         1984                                                                   34         107.80
+
+PQZ1316       Virgilio                                                              La Eneida                                                              48         110.29
+
+DDU0764       C. W. Ceram                                                           Dioses tumbas y sabios                                                  7          39.20
+
+EEJ4830       Antoine de Saint-Exupery                                              El Principito                                                          52          82.02
+
+DPZ8059       Rudyard Kipling                                                       El hombre que pudo reinar                                              22         159.18
+
+JJV7549       Stieg Larsson                                                         Los hombres que no amaban a las mujeres                                21         110.16
+
+JXK3142       Jack Kerouac                                                          En el camino                                                           51         104.88
+
+USM9579       Patrick Suskind                                                       El perfume                                                             22         121.60
+
+JGG5049       Fiodor Dostoyevski                                                    El eterno marido                                                       53         138.03
+
+MIK5358       Jürgen Osterhammel                                                    La transformacion del mundo                                            30          41.61
+
+BDK4183       Robert Louis Stevenson                                                La isla del tesoro                                                     30          49.99
+
+ECT0289       George R.R.Martin                                                     Juego de tronos                                                         9         223.26
+
+DVR5984       Khaled Hosseini                                                       Mil soles esplendidos                                                  24         145.32
+
+EBE0042       Rudyard Kipling                                                       Capitanes intrepidos                                                   39         237.89
+
+CXW5879       Arturo Perez-Reverte                                                  Los barcos se pierden en tierra                                        51          46.15
+
+GOG7446       J. D. Salinger                                                        El guardian entre el centeno                                           57         230.55
+
+QYH7021       Eric Hobsbawm                                                         Historia del siglo XX: 1914-1991                                        2          26.46
+
+KCI5219       Mijail Bulgakov                                                       El Maestro y Margarita                                                 21         251.70
+
+FMX8255       Mark Twain                                                            Las aventuras de Huckleberry Finn                                      55         137.78
+
+ZQY9966       Fiodor Dostoyevski                                                    El suenio del tio                                                      30         235.88
+
+DXP8640       Oscar Wilde                                                           El retrato de Dorian Gray                                              62          32.41
+
+LRV5687       Mario Vargas Llosa                                                    La guerra del fin del mundo                                            64           7.82
+
+EBT7258       Arturo Perez-Reverte                                                  Linea de fuego                                                          5         201.06
+
+ELC8965       Ponson Du Terrail                                                     Las aventuras de Rocambole                                             38          13.46
+
+ULM8751       Fiodor Dostoyevski                                                    La sumisa                                                               8         131.62
+
+PGK5617       William Shakespeare                                                   El Rey Lear                                                            36          31.72
+
+QFG6515       Rudyard Kipling                                                       El libro de la selva                                                   60          53.38
+
+QVX9089       Gustave Flaubert                                                      Madame Bovary                                                          28          86.76
+
+QMI4747       Daina Chaviano                                                        La isla de los amores infinitos                                        26         189.13
+
+SMW0186       Carlos Ruiz Zafon                                                     La sombra del viento                                                   65         144.22
+
+HSE3213       Hernest Hemingway                                                     Por quien doblan las campanas                                          20          72.12
+
+RZX8790       William Golding                                                       El senior de las moscas                                                23         197.01
+
+XMT1768       Mark Twain                                                            Los diarios de Adan y Eva                                              21         253.82
+
+HGN9910       Mario Vargas Llosa                                                    La ciudad y los perros                                                 62          17.11
+
+JNC0786       Elisabet Benavent                                                     Mi isla                                                                46         291.57
+
+HHR5161       Arturo Perez-Reverte                                                  El francotirador paciente                                              23         232.45
+
+FNM6936       Dante Alighieri                                                       Divina comedia                                                         50         279.18
+
+HVZ1228       Arturo Perez-Reverte                                                  El húsar                                                               43         205.18
+
+MKB4184       Alejandro Dumas                                                       Napoleon                                                               65         273.55
+
+KBF4088       J.K. Rowling                                                          Harry Potter y el prisionero de Azkaban (Harry Potter 3)               24         162.02
+
+ZQD4253       J. K. Rowling                                                         Harry Potter y el misterio del principe ( Harry Potter 6)              64         113.13
+
+PHL4155       Fiodor Dostoyevski                                                    El idiota                                                              20         194.39
+
+EYV0597       Horacio Quiroga                                                       Cuentos de la selva                                                     2         250.81
+
+AKU9740       Mario Vargas Llosa                                                    Conversacion en La Catedral                                            31         230.59
+
+ACM9578       Garci Rodriguez Montalvo                                              Amadis de gaula                                                        33          12.07
+
+OCI8959       Charles Dickens                                                       David Copperfield                                                      65         140.94
+
+EJE8138       Jose Maria Arguedas                                                   Yawar fiesta                                                           16         294.05
+
+WHU1288       Soraya Lane                                                           La hija italiana                                                       14          55.12
+
+ICU6090       Mario Vargas Llosa                                                    La fiesta del chivo                                                    14         104.59
+
+BUC5125       Iain MacGregor                                                        El faro de Stalingrado                                                 26         101.02
+
+BUY4915       Arturo Perez-Reverte                                                  La sombra del aguila                                                   22          72.44
+
+USK1312       Ken Follett                                                           Un mundo sin fin                                                       50         102.92
+
+VFO4193       Ildefonso Falcones                                                    La catedral del mar                                                    20         193.60
+
+OWO8918       Dan Brown                                                             Origen                                                                 60         125.45
+
+YZV6954       Joseph Conrad                                                         Corazon de las tinieblas                                               30          61.22
+
+CLG5566       Mario Vargas Llosa                                                    Pantaleon y las visitadoras                                             1          79.21
+
+IUI3314       Gabriel Garcia Marquez                                                El coronel no tiene quien le escriba                                   32         128.38
+
+EFD3949       Dante Alighieri                                                       La divina comedia                                                      26           9.73
+
+FVV9246       Harper Lee                                                            Matar a un ruisenior                                                   54          80.88
+
+SPM4763       Arturo Perez-Reverte                                                  Eva                                                                    18          83.27
+
+BHD6079       Nikos Kazantzakis                                                     Zorba el griego                                                        10          86.71
+
+RYI5447       Carson Mccullers                                                      El corazon es un cazador solitario                                     14         108.89
+
+BUB3833       William Shakespeare                                                   Otelo                                                                  11         282.62
+
+EUO8195       Hernest Hemingway                                                     El jardin del Eden                                                     11          34.50
+
+KSX7995       Dan Brown                                                             El simbolo perdidoi                                                     8         157.98
+
+MTZ2227       William Shakespeare                                                   Hamlet                                                                 42         292.95
+
+JSM8271       Homero                                                                La Odisea                                                              53          29.60
+
+KVL6246       Umberto Eco                                                           La edad media - barbaros - cristianos y musulmanes                     19         265.01
+
+QMJ4188       Jane Austen                                                           Emma                                                                   20           9.10
+
+QKH2262       Hernest Hemingway                                                     Fiesta                                                                 23          83.83
+
+HXB2949       Noah Gordon                                                           El medico                                                              32         192.30
+
+OBH4691       Fiodor Dostoyevski                                                    Crimen y castigo                                                       62         101.85
+
+IPE3429       Arturo Perez-Reverte                                                  Sidi                                                                   49          69.56
+
+ILA4795       Markus ZusaK                                                          La ladrona de libros                                                   39          66.39
+
+EFQ0297       Joseph Heller                                                         Trampa 22                                                              31         199.81
+
+BRG4234       E. B. White                                                           La telarania de Carlota                                                15         284.83
+
+EZP0333       Arturo Perez-Reverte                                                  La Reina del Sur                                                       60          96.07
+
+MBB0685       Arturo Perez-Reverte                                                  El capitan Alatriste                                                   25         221.97
+
+CST1133       Dan Brown                                                             Inferno                                                                10          31.40
+
+RNG2321       Jorge Luis Borges                                                     El Aleph                                                               36         238.45
+
+RSK1164       Gabriel Garcia Marquez                                                El amor en los tiempos del colera                                      24          91.91
+
+WYS2674       Robert Louis Stevenson                                                Secuestrado                                                            54          71.22
+
+CRR5443       Aldous Huxley                                                         Un mundo feliz                                                         29          35.50
+
+JEN0751       Leon Tolstoi                                                          Ana Karenina                                                           51         146.88
+
+IGT8523       Ken Follett                                                           Una columna de fuego                                                   20          46.11
+
+FYV9055       William Shakespeare                                                   Macbeth                                                                42         147.76
+
+LGB2311       Giovanni Boccaccio                                                    Decameron                                                               7         271.10
+
+MEH2993       Jose Maria Bermúdez de Castro                                         Hijos de un tiempo perdido                                              5         125.36
+
+CJN4376       J. K. Rowling                                                         Harry Potter y la camara secreta (Harry Potter 2)                       7         151.91
+
+ION3794       Stephenie Meyer                                                       Crepúsculo                                                             46          25.97
+
+HDA2333       Mario Vargas Llosa                                                    Lituma en los Andes                                                    51         152.96
+
+CKR6798       Hermann Hesse                                                         El lobo estepario                                                      49         149.43
+
+GDA4236       Sally Rooney                                                          Gente normal                                                           62         115.31
+
+BAP2859       Ernesto Sabato                                                        El túnel                                                                5         132.00
+
+EHX6253       Ken Follett                                                           La isla de las tormentas                                                7         266.04
+
+OUU5470       Arturo Perez-Reverte                                                  La carta esferica                                                      25         265.73
+
+PQB0775       Robert Louis Stevenson                                                El diablo de la botella y otros cuentos                                29         177.59
+
+DEF7625       John SteinbecK                                                        Las uvas de la ira                                                     19         278.27
+
+UDS2730       Anonimo                                                               Los Nibelungos                                                         23         160.51
+
+DTH6788       Arturo Perez-Reverte                                                  Los perros duros no bailan                                             20           5.00
+
+KLV1872       Jane Austen                                                           Orgullo y prejuicio                                                    53         185.25
+
+BUT4998       Vladimir Nabokov                                                      Lolita                                                                 28         246.78
+
+XBC5847       Mario Vargas Llosa                                                    Tiempos recios                                                         33         268.13
+
+AZL1098       Albert Camus                                                          El extranjero                                                          65          28.90
+
+BZY0235       Johann Wolfgang Von Goethe                                            Fausto                                                                 22          55.75
+
+QQQ4712       Victor Hugo                                                           Nuestra Seniora de Paris                                               58         249.38
+
+BTX3816       Fiodor Dostoyevski                                                    El jugador                                                             54         232.71
+
+MLC7198       Jose Maria Arguedas                                                   Los rios profundos                                                      7         141.87
+
+JZU0977       Paulo Coelho                                                          El alquimista                                                          62         179.82
+
+AGQ7769       Robert Louis Stevenson                                                La Flecha Negra                                                        50          99.67
+
+BXE0974       Jonathan Swift                                                        Los viajes de Gulliver                                                 63          44.79
+
+UFK9792       John Katzenbach                                                       El psicoanalista                                                       39          60.52
+
+XRL3393       Mario Vargas Llosa                                                    Le dedico mi silencio                                                  45         138.16
+
+GUN8655       Dan Brown                                                             Angeles y demoniosi                                                    52          76.44
+
+NGQ6935       Isabel Allende                                                        La casa de los espiritus                                               58         104.53
+
+PWB4941       Thomas Mann                                                           La montania magica                                                     63          22.15
+
+NEW1762       Arturo Perez-Reverte                                                  Territorio comanche                                                    21         296.53
+
+QHZ8547       Hernest Hemingway                                                     Adios a las armas                                                      50         246.91
+
+PCS8992       Agatha Christie                                                       Y no quedo ninguno                                                     31          80.07
+
+VFI8064       Truman Capote                                                         A sangre fria                                                          25         254.69
+
+XTM9385       Simon Sebag Montefiore                                                El mundo                                                               64         155.79
+
+VDL9379       Suzanne Collins                                                       Los juegos del hambre                                                  34         259.55
+
+IFL0150       William Shakespeare                                                   Romeo y Julieta                                                        63          35.64
+
+JZQ8143       Isaac Asimov                                                          Suenios de robot                                                       31          60.51
+
+SXT1015       William Faulkner                                                      Mientras agonizo                                                        1          57.87
+
+KGO1734       Andrew Marr                                                           Una historia del mundo                                                 15          47.90
+
+SMI7078       Mario Vargas Llosa                                                    Los cachorros                                                          27         148.98
+
+RAO4129       Jonathan Trigg                                                        Stalingrado                                                            18          80.13
+
+VYG3594       Fiodor Dostoyevski                                                    Los demonios                                                            3         104.74
+
+HLC2748       J.R.R.Tolkien                                                         El senior de los anillos (Trilogia)                                    30          85.46
+
+GJM4671       Lewis Dartnell                                                        Origenes                                                               36          50.78
+
+VYK6352       Jared Diamond                                                         Armas germenes y acero                                                 34          65.26
+
+VSG3432       David Cordingly                                                       Bajo bandera negra                                                      9         220.82
+
+OQK1590       Khaled Hosseini                                                       Cometas en el cielo                                                     4         100.56
+
+JXC1015       Daniel Defoe                                                          Robinson Crusoe                                                        58          58.13
+
+TAB4639       H. P. Lovecraft                                                       El color que cayo del cielo                                            43          26.91
+
+YXF2137       Gabriel Garcia Marquez                                                En agosto nos vemos                                                    35         106.78
+
+SIR3963       Arthur Golden                                                         Memorias de una geisha                                                 34         226.47
+
+ALH8812       Leon Tolstoi                                                          Guerra y Paz                                                           50         296.10
+
+UCA0857       Mary Beard                                                            SPQR: una historia de la antigua Roma                                  10           8.77
+
+KLO8691       Raymond Carver                                                        Catedral                                                               26         134.66
+
+HPM0950       Ray Bradbury                                                          Fahrenheit 451                                                         43         103.01
+
+JOF6762       Arturo Perez-Reverte                                                  Ojos azules                                                            43           1.24
+
+DEK2757       Suzanne Collins                                                       En llamas                                                               2          61.18
+
+RRE8138       Isaac Asimov                                                          Trilogia de la Fundacion                                               44         138.92
+
+JKE9650       Franz Kafka                                                           La metamorfosis                                                        44         217.54
+
+BZX4462       Mercedes Ron                                                          Culpa mia                                                              37         174.37
+
+NFP3266       Arturo Perez-Reverte                                                  Sabotaje                                                                4          29.28
+====================================================================================================
+////////////////////////////////////////////////////////////////////////////////////////////////////
+====================================================================================================
+                                                            REPORTE DE CLIENTES
+====================================================================================================
+   DNI        NOMBRE DEL CLIENTE
+====================================================================================================
+54393647  Reyes Tang Edward                                                     
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+67066631  Arca Amezquita Edric Ronald                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+32231860  Cerna Hijar Jose Rolando                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+14500753  Delgado Gonzales Guillermo Alfonso                                    
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+26916299  Chung Lee Alvaro                                                      
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+87804471  Diaz Antezano Magali Silvana                                          
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+81462164  Fernandez Ortega Elizabeth Elizabeth                                  
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+37500242  Pinto Calixto Shirley                                                 
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+45834351  Santisteban Meza Rosa                                                 
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+35030611  Cabrera Luna Shirley Isabel                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+81082011  Shirakawa Ortega Angel                                                
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+92240876  Mejia Diaz Blanca Milagros                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+45181396  Cerna Durand Martin                                                   
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+45002711  Landeo Sueldo Adolfo                                                  
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+96056368  Raffo Chung Adria Gloria                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+38724322  Inga Flores Cesar Adolfo                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+60740809  Lozada Yino Martha                                                    
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+49516360  Mendoza Egusquiza Rosario                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+34460612  Morales Valverde Ines Martha                                          
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+11750801  Raffo Arias Surami Annie                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+85870289  Paredes Patino Christian                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+20449598  Velasquez Huayanay Edgard Henry                                       
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+72832218  Vega Garcia Janet Rebeca                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+66747161  Vasquez Paz Alex Martin                                               
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+88080249  Coronel Chumpitaz Heli                                                
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+61212473  Forzani Caro Alonso                                                   
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+21344013  Aquino Toro Valentina Rocio                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+76693511  Laura Wong Melvin Henrry                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+79743481  Salas Aguero Daniel                                                   
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+61039260  Cerna Pairazaman Fiorella Margot                                      
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+14142586  Piscoya Bravo Cesar Bruno                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+36699613  Mejia De La Haza Francisco Edgar                                      
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+14268463  Diaz Correa Irma Virginia                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+33958767  Perez Farfan Richard Sandro                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+86898639  Pasquel Quio Surami Janet                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+20610190  Auris Zimic Javier Daniel                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+65071478  Arroyo Gordillo Maria Heli                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+63602514  Shirakawa Miranda Madeleine                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+51235238  Prado Falcon Edgar Richard                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+37751890  Romero Palomares Gloria Tatiana                                       
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+46582367  Justino Forzani Ericka Victoria                                       
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 30.23
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+27109544  Henriquez Espino Beatriz                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+17750908  Chumpitaz Iberos Ronal                                                
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+66152145  Hernandez Barrios Emilio                                              
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+42302422  Maldonado Ramirez Silvana                                             
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+37328103  Palomares Vera Henrry Humberto                                        
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+48053960  Corrales Tsukazan Irma Lourdes                                        
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+83265244  Wong Martel Madeleine                                                 
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+50860318  Salazar Corrales Lorena Irma                                          
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+87570336  Pairazaman Alamo Moises Miguel                                        
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+47659552  Prado Vergel Carlos Julian                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+57431952  Castro Suarez Rolando                                                 
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+58717040  Cabrera Canales Guillermo Edric                                       
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+33583840  Villa Yallico Tatiana Nancy                                           
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+15129661  Valverde Flores Irma Ydali                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+65830353  Caro Polo Sandro                                                      
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 0.00
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
+69200503  Norabuena Preciado Cinthia                                            
+Libros entregados: 
+               Pedido No.          CODIGO          Precio
+Total a pagar: 30.23
+Libros no entregrados por falta de stock: 
+               Pedido No.          CODIGO
