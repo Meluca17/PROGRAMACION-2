@@ -1,0 +1,10 @@
+Cargamos el arreglo de Clientes sin actualizar:
+54393647  Reyes Tang Edward                                           
+67066631  Arca Amezquita Edric Ronald                                 
+32231860  Cerna Hijar Jose Rolando                                    
+
+Cargamos el Cliente actualizado:
+54393647  Reyes Tang Edward                                           
+Libros entregados:
+       Pedido No.     Codigo    Precio
+         00010       ZOY6470     68.01
