@@ -1,0 +1,21 @@
+Codigo Estante: AAA
+Volumen Soportado: 35
+Volumen Llenado: 0
+Cantidad de Libros: 0   Tipo: Horizontal
+Idioma: Ingles
+CODIGO    NOMBRE                                  ANCHO     ALTO      VOLUMEN        PESO      TIPO
+
+Codigo Estante: BBB
+Volumen Soportado: 50.00
+Volumen Llenado: 0.00
+Cantidad de Libros: 0   Tipo: Vertical
+Letra de Inicio: A
+CODIGO    NOMBRE                                  ANCHO     ALTO      VOLUMEN        PESO      TIPO
+
+Codigo Estante: CCC
+Volumen Soportado: 46.00
+Volumen Llenado: 0.00
+Cantidad de Libros: 0   Tipo: Horizontal
+Idioma: Espanol
+CODIGO    NOMBRE                                  ANCHO     ALTO      VOLUMEN        PESO      TIPO
+
