@@ -1,0 +1,870 @@
+                            REPORTE DE PROMOCIONES
+====================================================================================================
+201901216
+118050         PAPAYA                                                      
+DNI:           79475585
+Monto Total:   7.20
+Descuento:     10.00%
+
+202000430
+118050         PAPAYA                                                      
+DNI:           79475585
+Monto Total:   4.50
+Descuento:     10.00%
+
+202000309
+118050         PAPAYA                                                      
+DNI:           81114108
+Monto Total:   9.90
+Descuento:     10.00%
+
+202000126
+126218         TANJERINA                                                   
+DNI:           33713901
+Monto Total:   4.95
+Descuento:     10.00%
+
+202101128
+126218         TANJERINA                                                   
+DNI:           71984468
+Monto Total:   2.70
+Descuento:     10.00%
+
+202100717
+126218         TANJERINA                                                   
+DNI:           79140840
+Monto Total:   1.35
+Descuento:     10.00%
+
+202000210
+151641         YOGHURT P BEBER LACTIGURT COCO 250G                         
+DNI:           32821689
+Monto Total:   7.20
+Descuento:     10.00%
+
+202000720
+151641         YOGHURT P BEBER LACTIGURT COCO 250G                         
+DNI:           91897732
+Monto Total:   10.80
+Descuento:     10.00%
+
+202000706
+170844         EMPANIZADOR CONTADINA TRADICIONAL 283GR                     
+DNI:           45783712
+Monto Total:   24.30
+Descuento:     10.00%
+
+202101226
+178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                     
+DNI:           33397650
+Monto Total:   24.30
+Descuento:     10.00%
+
+201900527
+178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                     
+DNI:           46462527
+Monto Total:   2.70
+Descuento:     10.00%
+
+202100316
+178943         YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                     
+DNI:           46462527
+Monto Total:   5.40
+Descuento:     10.00%
+
+202100115
+179485         MOLE SURTIDO CON ESPECIAS 250GR                             
+DNI:           33397650
+Monto Total:   49.50
+Descuento:     10.00%
+
+201901012
+182942         ZAPOTE                                                      
+DNI:           46462527
+Monto Total:   1.80
+Descuento:     10.00%
+
+202001006
+182942         ZAPOTE                                                      
+DNI:           81114108
+Monto Total:   2.70
+Descuento:     10.00%
+
+202200202
+204890         LECHE YAQUI DESLACTOSADA 1LT                                
+DNI:           48184351
+Monto Total:   1.80
+Descuento:     10.00%
+
+201900313
+204890         LECHE YAQUI DESLACTOSADA 1LT                                
+DNI:           91897732
+Monto Total:   10.80
+Descuento:     10.00%
+
+202100305
+283781         FRIJOLES REFRITOS ISADORA 430GR                             
+DNI:           71984468
+Monto Total:   31.50
+Descuento:     10.00%
+
+201900101
+285807         YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G                    
+DNI:           33397650
+Monto Total:   18.00
+Descuento:     10.00%
+
+202000304
+308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                         
+DNI:           29847168
+Monto Total:   19.80
+Descuento:     10.00%
+
+202100823
+308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                         
+DNI:           46462527
+Monto Total:   10.80
+Descuento:     10.00%
+
+201900424
+308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                         
+DNI:           71378466
+Monto Total:   5.40
+Descuento:     10.00%
+
+202100415
+308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                         
+DNI:           79140840
+Monto Total:   18.00
+Descuento:     10.00%
+
+202000921
+308982         YOGHURT P BEBER FRUGGIS FRESA 150GR                         
+DNI:           81114108
+Monto Total:   12.60
+Descuento:     10.00%
+
+202000730
+311343         YOGHURT FRESA NESTLE 1KG                                    
+DNI:           62566305
+Monto Total:   49.50
+Descuento:     10.00%
+
+202000806
+311343         YOGHURT FRESA NESTLE 1KG                                    
+DNI:           83236386
+Monto Total:   18.00
+Descuento:     10.00%
+
+202100322
+317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      
+DNI:           17913944
+Monto Total:   3.60
+Descuento:     10.00%
+
+202100606
+317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      
+DNI:           46462527
+Monto Total:   19.80
+Descuento:     10.00%
+
+202100929
+317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      
+DNI:           48184351
+Monto Total:   9.00
+Descuento:     10.00%
+
+202100520
+317404         LICUADO LALA CIRUELA PASA Y NUEZ 240GR                      
+DNI:           79140840
+Monto Total:   5.40
+Descuento:     10.00%
+
+202101003
+330512         YOGHURT LALA LIGHT 240GR                                    
+DNI:           46462527
+Monto Total:   2.70
+Descuento:     10.00%
+
+202101219
+330512         YOGHURT LALA LIGHT 240GR                                    
+DNI:           71378466
+Monto Total:   2.70
+Descuento:     10.00%
+
+202001126
+330512         YOGHURT LALA LIGHT 240GR                                    
+DNI:           71984468
+Monto Total:   16.20
+Descuento:     10.00%
+
+201900713
+365379         YOGHURT FRESA CON GRANOLA CHELSY 240GR                      
+DNI:           83236386
+Monto Total:   14.40
+Descuento:     10.00%
+
+201900817
+365906         AGUACATE REGIONAL KG.1.000 GR                               
+DNI:           33397650
+Monto Total:   9.90
+Descuento:     10.00%
+
+202101217
+365906         AGUACATE REGIONAL KG.1.000 GR                               
+DNI:           91897732
+Monto Total:   8.10
+Descuento:     10.00%
+
+202001007
+374253         TE DE MANZANILLA NEBO 24 1GR                                
+DNI:           33397650
+Monto Total:   8.10
+Descuento:     10.00%
+
+202100324
+374253         TE DE MANZANILLA NEBO 24 1GR                                
+DNI:           33397650
+Monto Total:   3.60
+Descuento:     10.00%
+
+201900105
+374253         TE DE MANZANILLA NEBO 24 1GR                                
+DNI:           76388967
+Monto Total:   4.50
+Descuento:     10.00%
+
+202100422
+390920         AGUA NIAGARA 500ML                                          
+DNI:           17913944
+Monto Total:   14.40
+Descuento:     10.00%
+
+202000312
+390920         AGUA NIAGARA 500ML                                          
+DNI:           46462527
+Monto Total:   9.00
+Descuento:     10.00%
+
+202000514
+390920         AGUA NIAGARA 500ML                                          
+DNI:           79475585
+Monto Total:   7.20
+Descuento:     10.00%
+
+201901018
+397718         LECHE LALA SEMI DESLACTOSADA 1LT                            
+DNI:           46462527
+Monto Total:   0.00
+Descuento:     10.00%
+
+202101019
+406688         CHURROMAIS CON LIMON 38GR                                   
+DNI:           32821689
+Monto Total:   4.70
+Descuento:     5.00%
+Flete:         10.00%
+
+202000419
+406688         CHURROMAIS CON LIMON 38GR                                   
+DNI:           33713901
+Monto Total:   0.52
+Descuento:     5.00%
+Flete:         10.00%
+
+201900803
+406688         CHURROMAIS CON LIMON 38GR                                   
+DNI:           83236386
+Monto Total:   4.70
+Descuento:     5.00%
+Flete:         10.00%
+
+201900628
+412041         TORTILLAS DE MAIZ 1KG                                       
+DNI:           33397650
+Monto Total:   47.02
+Descuento:     5.00%
+Flete:         10.00%
+
+201900701
+412041         TORTILLAS DE MAIZ 1KG                                       
+DNI:           45783712
+Monto Total:   15.68
+Descuento:     5.00%
+Flete:         10.00%
+
+202001026
+412041         TORTILLAS DE MAIZ 1KG                                       
+DNI:           71378466
+Monto Total:   10.45
+Descuento:     5.00%
+Flete:         10.00%
+
+202000813
+415932         SOPA MARUCHAN CAMARON 71GR                                  
+DNI:           17913944
+Monto Total:   3.13
+Descuento:     5.00%
+Flete:         10.00%
+
+202100704
+415932         SOPA MARUCHAN CAMARON 71GR                                  
+DNI:           17913944
+Monto Total:   3.13
+Descuento:     5.00%
+Flete:         10.00%
+
+201900605
+415932         SOPA MARUCHAN CAMARON 71GR                                  
+DNI:           33397650
+Monto Total:   21.95
+Descuento:     5.00%
+Flete:         10.00%
+
+201900506
+415932         SOPA MARUCHAN CAMARON 71GR                                  
+DNI:           33713901
+Monto Total:   30.60
+Descuento:     5.00%
+Flete:         0.00%
+
+201900923
+422763         GALLETAS SUAVICREMAS FRESA 158GR                            
+DNI:           17913944
+Monto Total:   1.04
+Descuento:     5.00%
+Flete:         10.00%
+
+202100205
+422763         GALLETAS SUAVICREMAS FRESA 158GR                            
+DNI:           17913944
+Monto Total:   1.57
+Descuento:     5.00%
+Flete:         10.00%
+
+202100802
+422763         GALLETAS SUAVICREMAS FRESA 158GR                            
+DNI:           29847168
+Monto Total:   2.09
+Descuento:     5.00%
+Flete:         10.00%
+
+202000428
+422763         GALLETAS SUAVICREMAS FRESA 158GR                            
+DNI:           32821689
+Monto Total:   2.09
+Descuento:     5.00%
+Flete:         10.00%
+
+202101109
+423073         POLVO PARA HORNEAR REXAL 15KILOS                            
+DNI:           91897732
+Monto Total:   12.54
+Descuento:     5.00%
+Flete:         10.00%
+
+201900518
+430669         AJO GRANULADO DE CALIFORNIA KIRKLAND 51.                    
+DNI:           79140840
+Monto Total:   31.35
+Descuento:     5.00%
+Flete:         10.00%
+
+202001129
+434681         ELOTE DORADO DEL MONTE 225GR                                
+DNI:           17913944
+Monto Total:   9.40
+Descuento:     5.00%
+Flete:         10.00%
+
+202000714
+434681         ELOTE DORADO DEL MONTE 225GR                                
+DNI:           46462527
+Monto Total:   4.18
+Descuento:     5.00%
+Flete:         10.00%
+
+202100528
+455703         PALOMITAS POFETS FLAMIN HOT 28GR                            
+DNI:           79140840
+Monto Total:   10.45
+Descuento:     5.00%
+Flete:         10.00%
+
+202200124
+455703         PALOMITAS POFETS FLAMIN HOT 28GR                            
+DNI:           81114108
+Monto Total:   62.70
+Descuento:     5.00%
+Flete:         10.00%
+
+202001213
+459032         GELATINA DANY LIMON 125GR                                   
+DNI:           33397650
+Monto Total:   15.68
+Descuento:     5.00%
+Flete:         10.00%
+
+202000529
+459032         GELATINA DANY LIMON 125GR                                   
+DNI:           71378466
+Monto Total:   31.35
+Descuento:     5.00%
+Flete:         10.00%
+
+201900529
+459032         GELATINA DANY LIMON 125GR                                   
+DNI:           79140840
+Monto Total:   25.08
+Descuento:     5.00%
+Flete:         10.00%
+
+201900725
+485302         YOGHURT LALA FRESA 240GR                                    
+DNI:           48184351
+Monto Total:   5.22
+Descuento:     5.00%
+Flete:         10.00%
+
+202100104
+485302         YOGHURT LALA FRESA 240GR                                    
+DNI:           71378466
+Monto Total:   26.12
+Descuento:     5.00%
+Flete:         10.00%
+
+202100117
+485302         YOGHURT LALA FRESA 240GR                                    
+DNI:           71378466
+Monto Total:   41.80
+Descuento:     5.00%
+Flete:         10.00%
+
+202100705
+485302         YOGHURT LALA FRESA 240GR                                    
+DNI:           91897732
+Monto Total:   47.02
+Descuento:     5.00%
+Flete:         10.00%
+
+201900319
+511824         FLAN LALA SABOR VAINILLA 100GR                              
+DNI:           33713901
+Monto Total:   18.90
+Descuento:     5.00%
+Flete:         0.00%
+
+202000531
+511824         FLAN LALA SABOR VAINILLA 100GR                              
+DNI:           48184351
+Monto Total:   12.54
+Descuento:     5.00%
+Flete:         10.00%
+
+201901203
+536472         SABRITAS CASERAS JALAPENO 42GR                              
+DNI:           33713901
+Monto Total:   31.35
+Descuento:     5.00%
+Flete:         10.00%
+
+202001231
+536472         SABRITAS CASERAS JALAPENO 42GR                              
+DNI:           48184351
+Monto Total:   62.70
+Descuento:     5.00%
+Flete:         10.00%
+
+202001129
+536472         SABRITAS CASERAS JALAPENO 42GR                              
+DNI:           76388967
+Monto Total:   15.68
+Descuento:     5.00%
+Flete:         10.00%
+
+202200329
+565169         PASTILLA PEPTO BISMOL                                       
+DNI:           48184351
+Monto Total:   12.54
+Descuento:     5.00%
+Flete:         10.00%
+
+202101010
+565169         PASTILLA PEPTO BISMOL                                       
+DNI:           57263719
+Monto Total:   22.99
+Descuento:     5.00%
+Flete:         10.00%
+
+202000718
+565169         PASTILLA PEPTO BISMOL                                       
+DNI:           79475585
+Monto Total:   10.45
+Descuento:     5.00%
+Flete:         10.00%
+
+202000605
+565169         PASTILLA PEPTO BISMOL                                       
+DNI:           81114108
+Monto Total:   10.45
+Descuento:     5.00%
+Flete:         10.00%
+
+202100101
+580927         TORTILLAS DE HARINA DEL HOGAR 22P. 840GR                    
+DNI:           29847168
+Monto Total:   20.90
+Descuento:     5.00%
+Flete:         10.00%
+
+202101129
+582920         PINGUINOS MARINELA 40GR                                     
+DNI:           17913944
+Monto Total:   25.08
+Descuento:     5.00%
+Flete:         10.00%
+
+202000816
+582920         PINGUINOS MARINELA 40GR                                     
+DNI:           46462527
+Monto Total:   41.80
+Descuento:     5.00%
+Flete:         10.00%
+
+202100423
+620036         SABRITAS ORIGINAL SAL 490GR                                 
+DNI:           29847168
+Monto Total:   42.00
+Flete:         5.00%
+
+202000519
+620036         SABRITAS ORIGINAL SAL 490GR                                 
+DNI:           57263719
+Monto Total:   19.95
+Flete:         0.00%
+
+202101111
+651034         MANGO EN REBANADAS LA MORENA 800GR                          
+DNI:           33397650
+Monto Total:   15.75
+Flete:         5.00%
+
+202200211
+651034         MANGO EN REBANADAS LA MORENA 800GR                          
+DNI:           71984468
+Monto Total:   42.00
+Flete:         5.00%
+
+202200101
+662083         TAKIS SALSA BRAVA 62GR                                      
+DNI:           57263719
+Monto Total:   10.50
+Flete:         5.00%
+
+201900710
+662083         TAKIS SALSA BRAVA 62GR                                      
+DNI:           81114108
+Monto Total:   10.50
+Flete:         5.00%
+
+201901020
+675770         JARABE DE MAMEY 1.25KG                                      
+DNI:           17913944
+Monto Total:   26.25
+Flete:         5.00%
+
+202000911
+675770         JARABE DE MAMEY 1.25KG                                      
+DNI:           83236386
+Monto Total:   10.50
+Flete:         5.00%
+
+201900105
+690039         CORAZONES DE OREJONA PZA                                    
+DNI:           45783712
+Monto Total:   8.40
+Flete:         5.00%
+
+201901228
+696000         MEDIA CREMA NESTLE 1LT                                      
+DNI:           17913944
+Monto Total:   5.25
+Flete:         5.00%
+
+201901202
+696000         MEDIA CREMA NESTLE 1LT                                      
+DNI:           33713901
+Monto Total:   42.00
+Flete:         5.00%
+
+202001002
+696000         MEDIA CREMA NESTLE 1LT                                      
+DNI:           45783712
+Monto Total:   42.00
+Flete:         5.00%
+
+202001123
+714788         PAPA EN CUBOS DEL FUERTE 12 380GR.                          
+DNI:           62566305
+Monto Total:   22.05
+Flete:         5.00%
+
+201900418
+748008         SANDWICH COMBINADA 3 FLORES 150GR                           
+DNI:           48184351
+Monto Total:   15.75
+Flete:         5.00%
+
+202200221
+748008         SANDWICH COMBINADA 3 FLORES 150GR                           
+DNI:           79140840
+Monto Total:   42.00
+Flete:         5.00%
+
+201900726
+748899         NARANJA SIN SEMILLA                                         
+DNI:           46462527
+Monto Total:   11.55
+Flete:         5.00%
+
+202100124
+748899         NARANJA SIN SEMILLA                                         
+DNI:           79475585
+Monto Total:   9.45
+Flete:         5.00%
+
+202101122
+778066         CHILES CHIPOTLES LA COSTENA 380GR                           
+DNI:           57263719
+Monto Total:   9.45
+Flete:         5.00%
+
+202000805
+785062         CORAZON DE ALCACHOFA SAN MIGUEL                             
+DNI:           33713901
+Monto Total:   8.40
+Flete:         5.00%
+
+202100701
+793026         YOGHURT NATURAL LIGHT LALA 1KG                              
+DNI:           32821689
+Monto Total:   52.50
+Flete:         5.00%
+
+202200106
+793026         YOGHURT NATURAL LIGHT LALA 1KG                              
+DNI:           57263719
+Monto Total:   26.25
+Flete:         5.00%
+
+202000907
+793026         YOGHURT NATURAL LIGHT LALA 1KG                              
+DNI:           79475585
+Monto Total:   36.75
+Flete:         5.00%
+
+202100713
+793026         YOGHURT NATURAL LIGHT LALA 1KG                              
+DNI:           81114108
+Monto Total:   36.75
+Flete:         5.00%
+
+202100529
+826317         CHAMYTO BIG 114ML                                           
+DNI:           46462527
+Monto Total:   4.20
+Flete:         5.00%
+
+202001015
+856894         HARINA MAZATL 5KG                                           
+DNI:           17913944
+Monto Total:   73.50
+Flete:         5.00%
+
+201900602
+856894         HARINA MAZATL 5KG                                           
+DNI:           48184351
+Monto Total:   52.50
+Flete:         5.00%
+
+202000417
+856894         HARINA MAZATL 5KG                                           
+DNI:           48184351
+Monto Total:   126.00
+Flete:         5.00%
+
+202000925
+856894         HARINA MAZATL 5KG                                           
+DNI:           57263719
+Monto Total:   9.50
+Flete:         0.00%
+
+202000419
+872819         GELATINA DE LECHE VAINILLA DANETTE 100GR                    
+DNI:           32821689
+Monto Total:   12.60
+Flete:         5.00%
+
+202101020
+872819         GELATINA DE LECHE VAINILLA DANETTE 100GR                    
+DNI:           83236386
+Monto Total:   2.10
+Flete:         5.00%
+
+201900807
+874503         GALLETAS LORS SNACKS MARINELA 75GR                          
+DNI:           71984468
+Monto Total:   1.05
+Flete:         5.00%
+
+202100101
+882099         NESQUIK CHOCOLATE 200GR                                     
+DNI:           32821689
+Monto Total:   5.25
+Flete:         5.00%
+
+202100227
+882099         NESQUIK CHOCOLATE 200GR                                     
+DNI:           62566305
+Monto Total:   10.50
+Flete:         5.00%
+
+202200123
+882099         NESQUIK CHOCOLATE 200GR                                     
+DNI:           62566305
+Monto Total:   63.00
+Flete:         5.00%
+
+201901009
+900698         VAINILLA MOLINA 500ML                                       
+DNI:           46462527
+Monto Total:   27.50
+Flete:         10.00%
+
+201900519
+900698         VAINILLA MOLINA 500ML                                       
+DNI:           81114108
+Monto Total:   27.50
+Flete:         10.00%
+
+202100902
+901816         JUGO VALLE FRUT CITRUS 12 250ML                             
+DNI:           33713901
+Monto Total:   16.50
+Flete:         10.00%
+
+202101227
+901816         JUGO VALLE FRUT CITRUS 12 250ML                             
+DNI:           46462527
+Monto Total:   6.60
+Flete:         10.00%
+
+202000319
+923804         SAL BAJA PACIFIC BOLSA 1KGR                                 
+DNI:           71378466
+Monto Total:   7.70
+Flete:         10.00%
+
+201900815
+923804         SAL BAJA PACIFIC BOLSA 1KGR                                 
+DNI:           83236386
+Monto Total:   12.10
+Flete:         10.00%
+
+201901230
+935218         FRIJOL AMARILLO KG                                          
+DNI:           29847168
+Monto Total:   3.30
+Flete:         10.00%
+
+201900421
+935218         FRIJOL AMARILLO KG                                          
+DNI:           76388967
+Monto Total:   6.60
+Flete:         10.00%
+
+201900729
+941699         MAIZ POZOLERO EXTRA 1KGR                                    
+DNI:           33397650
+Monto Total:   9.90
+Flete:         10.00%
+
+202000727
+941699         MAIZ POZOLERO EXTRA 1KGR                                    
+DNI:           57263719
+Monto Total:   26.10
+Flete:         0.00%
+
+202200205
+941699         MAIZ POZOLERO EXTRA 1KGR                                    
+DNI:           81114108
+Monto Total:   19.80
+Flete:         10.00%
+
+201900201
+947176         SALSA DE CHILE HABANERO ROJO 260GR                          
+DNI:           33397650
+Monto Total:   19.80
+Flete:         10.00%
+
+201900203
+947176         SALSA DE CHILE HABANERO ROJO 260GR                          
+DNI:           76388967
+Monto Total:   19.80
+Flete:         10.00%
+
+202100309
+947176         SALSA DE CHILE HABANERO ROJO 260GR                          
+DNI:           91897732
+Monto Total:   6.60
+Flete:         10.00%
+
+202000626
+961802         ACHIOTE LA EXTRA 1KG                                        
+DNI:           29847168
+Monto Total:   1.10
+Flete:         10.00%
+
+202101004
+961802         ACHIOTE LA EXTRA 1KG                                        
+DNI:           91897732
+Monto Total:   13.20
+Flete:         10.00%
+
+202101102
+979865         GALLETAS MARIAS CUETARA 160GR                               
+DNI:           29847168
+Monto Total:   4.95
+Flete:         10.00%
+
+201900927
+979865         GALLETAS MARIAS CUETARA 160GR                               
+DNI:           45783712
+Monto Total:   5.50
+Flete:         10.00%
+
+202001010
+992564         LECHUGA ROMANA                                              
+DNI:           32821689
+Monto Total:   1.10
+Flete:         10.00%
+
+202001105
+992564         LECHUGA ROMANA                                              
+DNI:           81114108
+Monto Total:   1.65
+Flete:         10.00%
+
+201901006
+997564         MANGO ECUATORIANO                                           
+DNI:           71984468
+Monto Total:   1.10
+Flete:         10.00%
+
+202000509
+997564         MANGO ECUATORIANO                                           
+DNI:           76388967
+Monto Total:   13.20
+Flete:         10.00%
+
+
