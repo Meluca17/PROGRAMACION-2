@@ -1,0 +1,438 @@
+54393647  Reyes_Tang_Edward
+67066631  Arca_Amezquita_Edric_Ronald
+32231860  Cerna_Hijar_Jose_Rolando
+14500753  Delgado_Gonzales_Guillermo_Alfonso
+26916299  Chung_Lee_Alvaro
+87804471  Diaz_Antezano_Magali_Silvana
+81462164  Fernandez_Ortega_Elizabeth_Elizabeth
+37500242  Pinto_Calixto_Shirley
+45834351  Santisteban_Meza_Rosa
+35030611  Cabrera_Luna_Shirley_Isabel
+81082011  Shirakawa_Ortega_Angel
+92240876  Mejia_Diaz_Blanca_Milagros
+45181396  Cerna_Durand_Martin
+45002711  Landeo_Sueldo_Adolfo
+96056368  Raffo_Chung_Adria_Gloria
+38724322  Inga_Flores_Cesar_Adolfo
+60740809  Lozada_Yino_Martha
+49516360  Mendoza_Egusquiza_Rosario
+34460612  Morales_Valverde_Ines_Martha
+11750801  Raffo_Arias_Surami_Annie
+85870289  Paredes_Patino_Christian
+20449598  Velasquez_Huayanay_Edgard_Henry
+72832218  Vega_Garcia_Janet_Rebeca
+66747161  Vasquez_Paz_Alex_Martin
+88080249  Coronel_Chumpitaz_Heli
+61212473  Forzani_Caro_Alonso
+21344013  Aquino_Toro_Valentina_Rocio
+76693511  Laura_Wong_Melvin_Henrry
+79743481  Salas_Aguero_Daniel
+61039260  Cerna_Pairazaman_Fiorella_Margot
+14142586  Piscoya_Bravo_Cesar_Bruno
+36699613  Mejia_De_La_Haza_Francisco_Edgar
+14268463  Diaz_Correa_Irma_Virginia
+33958767  Perez_Farfan_Richard_Sandro
+86898639  Pasquel_Quiro_Surami_Janet
+20610190  Auris_Zimic_Javier_Daniel
+65071478  Arroyo_Gordillo_Maria_Heli
+63602514  Shirakawa_Miranda_Madeleine
+51235238  Prado_Falcon_Edgar_Richard
+37751890  Romero_Palomares_Gloria_Tatiana
+46582367  Justino_Forzani_Ericka_Victoria
+27109544  Henriquez_Espino_Beatriz
+17750908  Chumpitaz_Iberos_Ronal
+66152145  Hernandez_Barrios_Emilio
+42302422  Maldonado_Ramirez_Silvana
+37328103  Palomares_Vera_Henrry_Humberto
+48053960  Corrales_Tsukazan_Irma_Lourdes
+83265244  Wong_Martel_Madeleine
+50860318  Salazar_Corrales_Lorena_Irma
+87570336  Pairazaman_Alamo_Moises_Miguel
+47659552  Prado_Vergel_Carlos_Julian
+57431952  Castro_Suarez_Rolando
+58717040  Cabrera_Canales_Guillermo_Edric
+33583840  Villa_Yallico_Tatiana_Nancy
+15129661  Valverde_Flores_Irma_Ydali
+65830353  Caro_Polo_Sandro
+69200503  Norabuena_Preciado_Cinthia
+0
+IIM5175	Diamantes_y_pedernales	Mi_Dri	2	30.23
+YDK7687	El_otonio_del_patriarca	Dri_Y_Mell	60	82.02
+ZOY6470	El_viejo_y_el_mar	Honguito	25	68.01
+ETZ8565	Confesiones_de_una_mascara	Bee	27	175.68
+LQL0880	Contra_el_fascismo	Gabriel_Garcia_Marquez	34	71.63
+VFZ9435	El_olor_de_la_Edad_Media	Hernest_Hemingway	49	96.28
+SFZ1256	La_Iliada	Yukio_Mishima	34	154.35
+EDQ0577	Las_aventuras_de_Pinocho	Umberto_Eco	27	31.54
+YJI3961	Cien_anios_de_soledad	Javier_Traite	45	99.35
+VPN5351	El_Amante	Homero	27	182.76
+PVS2464	Sapiens	Carlo_Collodi	18	148.82
+DVL7760	Falco	Gabriel_Garcia_Marquez	57	98.18
+QRH6838	Las_cronicas_de_Narnia	Ana_Maria_Moix	43	162.37
+LDL2628	Harry_Potter_y_el_caliz_de_fuego_(Harry_Potter_4)	Yuval_Noah_Harari	3	140.97
+SBU9053	Tierra_arrasada	Arturo_Perez-Reverte	34	53.71
+ZJM1292	El_suenio_del_celta	C._S._Lewis	52	66.03
+CRA4157	El_forastero_misterioso	J.K._Rowling	39	234.14
+RII8346	Las_dos_Dianas	Alfredo_Gonzalez_Ruibal	23	69.63
+JBR9372	El_maestro_de_esgrima	Mario_Vargas_Llosa	60	1.94
+NEO9165	Emperador_de_Roma	Mark_Twain	65	234.34
+TBZ2657	Olalla	Alejandro_Dumas	5	42.95
+IBP7411	Nunca	Arturo_Perez-Reverte	40	68.15
+GPH1575	La_gran_aventura_de_los_griegos	Mary_Beard	3	11.18
+XIU2628	Cabo_Trafalgar	Robert_Louis_Stevenson	21	34.25
+DDT0017	Viaje_al_fin_de_la_noche	Ken_Follett	38	125.28
+ILG7766	Iliada	Javier_Negrete	7	296.63
+HGQ0131	Odisea	Arturo_Perez-Reverte	22	62.13
+HLB4548	Frankenstein_o_el_moderno_Prometeo	Louis_Ferdinand_Celine	18	118.29
+SQB7146	Cronica_de_una_muerte_anunciada	Homero	31	83.99
+VHK9148	Historia_y_cronologia_del_mundo	Homero	63	14.07
+MVU0233	La_conspiracioni	Mary_W._Shelley	60	192.02
+KWL0415	1923	Gabriel_Garcia_Marquez	24	78.57
+WPU8819	Tristam_Shandy	Isaac_Asimov	47	59.08
+JTX5687	Veinte_mil_leguas_de_viaje_submarino	Dan_Brown	29	72.66
+HCT8192	Diario	Roberto_Villa_Garcia	63	99.1
+OMN0252	Los_hermanos_Karamazov	Laurence_Sterne	42	241.73
+CKC4095	El_Gran_Gatsby	Julio_Verne	26	32.4
+JLQ6546	El_retorno_del_Rey	Ana_FranK	37	48.76
+MSW8176	Todo_se_desmorona	Fiodor_Dostoyevski	23	37.03
+TDY0497	La_chica_del_tren	F._Scott_Fitzgerald	40	62.79
+NBL8415	Espania_con_honra	J.R.R._Tolkien	50	252
+IMC3155	Los_pilares_de_la_tierra	Chinua_Achebe	35	182.44
+FWK6327	El_doble	Paula_Hawkins	24	109.19
+GQC1814	Apocalipticos_e_integrados	Daniel_Aquillue	26	1.08
+PRD1648	Relato_de_un_naufrago	Ken_Follett	10	71.86
+SBF7018	El_handicap_de_la_vida	Fiodor_Dostoyevski	2	71.69
+LVP3355	Las_aventuras_de_Sherlock_Holmes	Umberto_Eco	35	50.4
+FBO8724	El_pendulo_de_Foucault	Gabriel_Garcia_Marquez	64	104.07
+WCZ0845	El_cementerio_de_Praga	Rudyard_Kipling	5	154
+WOF6634	El_problema_final	Arthur_Conan_Doyle	64	174.46
+CUV7849	Ficciones	Umberto_Eco	50	255.52
+VMW6915	Travesuras_de_la_ninia_mala	Umberto_Eco	12	292.26
+MBQ9495	Tormenta_de_espadas	Arturo_Perez-Reverte	27	202.58
+LQA8555	Rimas_y_leyendas	Jorge_Luis_Borges	14	248.74
+IMK4892	La_tabla_de_Flandes	Mario_Vargas_Llosa	21	272.34
+QCA9584	Dr._Jekyll_y_Mr._Hyde	George_R.R._Martin	27	168.95
+XJT3661	Las_aventuras_de_Tom_Sawyer	Gustavo_Adolfo_Becquer	65	36.07
+THT4126	Harry_Potter_y_las_reliquias_de_la_muerte_(Harry_Potter_7)	Arturo_Perez-Reverte	15	195.13
+PZP7176	La_caida_de_los_gigantes	Robert_Louis_Stevenson	28	15.93
+UQL8643	Dracula	Mark_Twain	23	15.12
+RLQ7170	El_tango_de_la_guardia_vieja	J._K._Rowling	65	114.29
+KTA8754	Ulises	Ken_Follett	22	37.22
+TOJ1764	Ensayo_sobre_la_ceguera	Bram_Stoker	40	154.27
+GWE4133	El_gato_negro_y_otros_cuentos	Arturo_Perez-Reverte	64	298.03
+ZPD6557	El_ruido_y_la_furia	James_Joyce	10	267.59
+IUG2294	El_proceso	Jose_Saramago	17	129.1
+WGA2754	El_club_Dumas	Edgar_Allan_Poe	8	124.58
+YJE2497	Progreso_del_peregrino	William_Faulkner	65	88.79
+XCC4070	El_italiano	Franz_Kafka	16	111.54
+OBD2849	El_invierno_del_mundo	Arturo_Perez-Reverte	51	76.39
+UCJ9882	El_reino_de_este_mundo	John_Bunyan	20	54.97
+QVU3526	Vidas_intrepidas	Arturo_Perez-Reverte	45	49.89
+VTY5195	Un_asunto_de_honor	Ken_Follett	48	184.37
+FKK6524	Los_renglones_torcidos_de_Dios	Alejo_Carpentier	36	55.95
+KPE7420	Jane_Eyre	Julio_Albi_de_la_Cuesta	31	288.51
+MWB2923	Mudlarking	Arturo_Perez-Reverte	55	195.24
+ISY5671	Harry_Potter_y_la_piedra_filosofal_(Harry_Potter_1)	Torcuato_Luca_de_Tena	23	33.9
+NBE1339	Palmeras_en_la_nieve	Charlotte_Brontë	20	122.65
+JHP0390	El_conde_de_Montecristo	Lara_Maiklem	5	133.79
+OWU1533	Cuatro_princes	J._K._Rowling	31	213.86
+SFR1226	Ana_la_de_las_tejas_verdes	Luz_Gabas	2	193.39
+HRT0664	Los_funerales_de_la_Mama_Grande	Alexandre_Dumas	42	76.33
+HPP3360	El_pintor_de_batallas	John_Julius_Norwich	53	12.72
+DND9446	Lo_que_el_viento_se_llevo	Lucy_Maud_Montgomery	58	129.25
+LJD9991	Baudolino	Gabriel_Garcia_Marquez	6	197.87
+XIU6076	Rebelion_en_la_granja	Arturo_Perez-Reverte	40	232.77
+PWX7633	La_tia_Julia_y_el_escribidor	Margaret_Mitchell	40	278.8
+UXZ2187	Los_7_habitos_de_la_gente_altamente_efectiva	Umberto_Eco	35	114.5
+UEJ1235	Grandes_esperanzas	George_Orwell	64	129.07
+DDQ0721	En_busca_del_tiempo_perdido	Mario_Vargas_Llosa	50	250.24
+HWM4049	Romper_el_circulo	Stephen_R._Covey	61	201.21
+EWI3090	La_seniora_Dalloway	Charles_Dickens	17	46.34
+JZC7527	El_tambor_de_hojalata	Marcel_Proust	2	147.44
+WYE2119	El_asedio	Colleen_Hoover	46	90.66
+YKQ9278	Alicia_en_el_pais_de_las_maravillas	Virginia_Woolf	23	94.02
+ZNF2241	El_extranio_caso_del_Dr._Jekyll_y_Mr._Hyde	Gunter_Grass	47	187.19
+CTW5846	El_medievo_cristiano	Arturo_Perez-Reverte	2	213.41
+FWP8469	Justine_o_los_infortunios	Lewis_Carroll	31	260
+CRY6839	Ricardo_III	Robert_Louis_Stevenson	43	159.1
+WMN3648	Pasaje_a_la_India	Mario_Merlino	4	61.94
+QBL9575	Los_miserables	Charles_Dickens	53	287.51
+VOI0019	El_evangelio_según_Jesucristo	William_Shakespeare	52	2.32
+TMR5068	Los_tres_mosqueteros	E._M._Forster	52	254.78
+RWW7975	El_nombre_de_la_rosa	Victor_Hugo	47	251.27
+LJE6687	El_codigo_Da_Vinci	Jose_Saramago	34	151.29
+PPI9259	Revolucion	Alejandro_Dumas	55	89.88
+ZYF6683	Harry_Potter_y_la_Orden_del_Fenix_(Harry_Potter_5)	Umberto_Eco	27	280.76
+GKG6581	Hombres_buenos	Dan_Brown	44	100.33
+WWT1581	La_piel_del_tambor	Arturo_Perez-Reverte	57	15.88
+CMP1150	Don_Quijote_de_la_Mancha	J._K._Rowling	27	19.5
+CPE5718	Paris_era_una_fiesta	Arturo_Perez-Reverte	50	254.78
+SHF2360	Un_dia_de_colera	Arturo_Perez-Reverte	10	19.44
+ETV5056	Moby_Dick	Miguel_de_Cervantes	31	199.59
+USE5598	Fortaleza_digitali	Hernest_Hemingway	38	212.47
+TVR7016	El_corazon_de_las_tinieblas	Arturo_Perez-Reverte	32	196.32
+BSX2922	Una_historia_de_Espania	Herman_Melville	1	146.19
+GXB5722	Cumbres_borrascosas	Dan_Brown	45	141.69
+ZLE2920	Historia_de_la_Edad_Media	Joseph_Conrad	28	208.38
+MNL3677	El_Hobbit	Arturo_Perez-Reverte	41	205.14
+ZAL2738	1984	Emily_Brontë	34	107.8
+PQZ1316	La_Eneida	Indro_Montanelli	48	110.29
+DDU0764	Dioses_tumbas_y_sabios	J.R.R._Tolkien	7	39.2
+EEJ4830	El_Principito	George_Orwell	52	82.02
+DPZ8059	El_hombre_que_pudo_reinar	Virgilio	22	159.18
+JJV7549	Los_hombres_que_no_amaban_a_las_mujeres	C._W._Ceram	21	110.16
+JXK3142	En_el_camino	Antoine_de_Saint-Exupery	51	104.88
+USM9579	El_perfume	Rudyard_Kipling	22	121.6
+JGG5049	El_eterno_marido	Stieg_Larsson	53	138.03
+MIK5358	La_transformacion_del_mundo	Jack_Kerouac	30	41.61
+BDK4183	La_isla_del_tesoro	Patrick_Suskind	30	49.99
+ECT0289	Juego_de_tronos	Fiodor_Dostoyevski	9	223.26
+DVR5984	Mil_soles_esplendidos	Jürgen_Osterhammel	24	145.32
+EBE0042	Capitanes_intrepidos	Robert_Louis_Stevenson	39	237.89
+CXW5879	Los_barcos_se_pierden_en_tierra	George_R.R._Martin	51	46.15
+GOG7446	El_guardian_entre_el_centeno	Khaled_Hosseini	57	230.55
+QYH7021	Historia_del_siglo_XX:_1914-1991	Rudyard_Kipling	2	26.46
+KCI5219	El_Maestro_y_Margarita	Arturo_Perez-Reverte	21	251.7
+FMX8255	Las_aventuras_de_Huckleberry_Finn	J._D._Salinger	55	137.78
+ZQY9966	El_suenio_del_tio	Eric_Hobsbawm	30	235.88
+DXP8640	El_retrato_de_Dorian_Gray	Mijail_Bulgakov	62	32.41
+LRV5687	La_guerra_del_fin_del_mundo	Mark_Twain	64	7.82
+EBT7258	Linea_de_fuego	Fiodor_Dostoyevski	5	201.06
+ELC8965	Las_aventuras_de_Rocambole	Oscar_Wilde	38	13.46
+ULM8751	La_sumisa	Mario_Vargas_Llosa	8	131.62
+PGK5617	El_Rey_Lear	Arturo_Perez-Reverte	36	31.72
+QFG6515	El_libro_de_la_selva	Ponson_Du_Terrail	60	53.38
+QVX9089	Madame_Bovary	Fiodor_Dostoyevski	28	86.76
+QMI4747	La_isla_de_los_amores_infinitos	William_Shakespeare	26	189.13
+SMW0186	La_sombra_del_viento	Rudyard_Kipling	65	144.22
+HSE3213	Por_quien_doblan_las_campanas	Gustave_Flaubert	20	72.12
+RZX8790	El_senior_de_las_moscas	Daina_Chaviano	23	197.01
+XMT1768	Los_diarios_de_Adan_y_Eva	Carlos_Ruiz_Zafon	21	253.82
+HGN9910	La_ciudad_y_los_perros	Hernest_Hemingway	62	17.11
+JNC0786	Mi_isla	William_Golding	46	291.57
+HHR5161	El_francotirador_paciente	Mark_Twain	23	232.45
+FNM6936	Divina_comedia	Mario_Vargas_Llosa	50	279.18
+HVZ1228	El_húsar	Elisabet_Benavent	43	205.18
+MKB4184	Napoleon	Arturo_Perez-Reverte	65	273.55
+KBF4088	Harry_Potter_y_el_prisionero_de_Azkaban_(Harry_Potter_3)	Dante_Alighieri	24	162.02
+ZQD4253	Harry_Potter_y_el_misterio_del_principe_(Harry_Potter_6)	Arturo_Perez-Reverte	64	113.13
+PHL4155	El_idiota	Alejandro_Dumas	20	194.39
+EYV0597	Cuentos_de_la_selva	J.K._Rowling	2	250.81
+AKU9740	Conversacion_en_La_Catedral	J._K._Rowling	31	230.59
+ACM9578	Amadis_de_gaula	Fiodor_Dostoyevski	33	12.07
+OCI8959	David_Copperfield	Horacio_Quiroga	65	140.94
+EJE8138	Yawar_fiesta	Mario_Vargas_Llosa	16	294.05
+WHU1288	La_hija_italiana	Garci_Rodriguez_Montalvo	14	55.12
+ICU6090	La_fiesta_del_chivo	Charles_Dickens	14	104.59
+BUC5125	El_faro_de_Stalingrado	Jose_Maria_Arguedas	26	101.02
+BUY4915	La_sombra_del_aguila	Soraya_Lane	22	72.44
+USK1312	Un_mundo_sin_fin	Mario_Vargas_Llosa	50	102.92
+VFO4193	La_catedral_del_mar	Iain_MacGregor	20	193.6
+OWO8918	Origen	Arturo_Perez-Reverte	60	125.45
+YZV6954	Corazon_de_las_tinieblas	Ken_Follett	30	61.22
+CLG5566	Pantaleon_y_las_visitadoras	Ildefonso_Falcones	1	79.21
+IUI3314	El_coronel_no_tiene_quien_le_escriba	Dan_Brown	32	128.38
+EFD3949	La_divina_comedia	Joseph_Conrad	26	9.73
+FVV9246	Matar_a_un_ruisenior	Mario_Vargas_Llosa	54	80.88
+SPM4763	Eva	Gabriel_Garcia_Marquez	18	83.27
+BHD6079	Zorba_el_griego	Dante_Alighieri	10	86.71
+RYI5447	El_corazon_es_un_cazador_solitario	Harper_Lee	14	108.89
+BUB3833	Otelo	Arturo_Perez-Reverte	11	282.62
+EUO8195	El_jardin_del_Eden	Nikos_Kazantzakis	11	34.5
+KSX7995	El_simbolo_perdidoi	Carson_Mccullers	8	157.98
+MTZ2227	Hamlet	William_Shakespeare	42	292.95
+JSM8271	La_Odisea	Hernest_Hemingway	53	29.6
+KVL6246	La_edad_media_-_barbaros_-_cristianos_y_musulmanes	Dan_Brown	19	265.01
+QMJ4188	Emma	William_Shakespeare	20	9.1
+QKH2262	Fiesta	Homero	23	83.83
+HXB2949	El_medico	Umberto_Eco	32	192.3
+OBH4691	Crimen_y_castigo	Jane_Austen	62	101.85
+IPE3429	Sidi	Hernest_Hemingway	49	69.56
+ILA4795	La_ladrona_de_libros	Noah_Gordon	39	66.39
+EFQ0297	Trampa_22	Fiodor_Dostoyevski	31	199.81
+BRG4234	La_telarania_de_Carlota	Arturo_Perez-Reverte	15	284.83
+EZP0333	La_Reina_del_Sur	Markus_ZusaK	60	96.07
+MBB0685	El_capitan_Alatriste	Joseph_Heller	25	221.97
+CST1133	Inferno	E._B._White	10	31.4
+RNG2321	El_Aleph	Arturo_Perez-Reverte	36	238.45
+RSK1164	El_amor_en_los_tiempos_del_colera	Arturo_Perez-Reverte	24	91.91
+WYS2674	Secuestrado	Dan_Brown	54	71.22
+CRR5443	Un_mundo_feliz	Jorge_Luis_Borges	29	35.5
+JEN0751	Ana_Karenina	Gabriel_Garcia_Marquez	51	146.88
+IGT8523	Una_columna_de_fuego	Robert_Louis_Stevenson	20	46.11
+FYV9055	Macbeth	Aldous_Huxley	42	147.76
+LGB2311	Decameron	Leon_Tolstoi	7	271.1
+MEH2993	Hijos_de_un_tiempo_perdido	Ken_Follett	5	125.36
+CJN4376	Harry_Potter_y_la_camara_secreta_(Harry_Potter_2)	William_Shakespeare	7	151.91
+ION3794	Crepúsculo	Giovanni_Boccaccio	46	25.97
+HDA2333	Lituma_en_los_Andes	Jose_Maria_Bermúdez_de_Castro	51	152.96
+CKR6798	El_lobo_estepario	J._K._Rowling	49	149.43
+GDA4236	Gente_normal	Stephenie_Meyer	62	115.31
+BAP2859	El_túnel	Mario_Vargas_Llosa	5	132
+EHX6253	La_isla_de_las_tormentas	Hermann_Hesse	7	266.04
+OUU5470	La_carta_esferica	Sally_Rooney	25	265.73
+PQB0775	El_diablo_de_la_botella_y_otros_cuentos	Ernesto_Sabato	29	177.59
+DEF7625	Las_uvas_de_la_ira	Ken_Follett	19	278.27
+UDS2730	Los_Nibelungos	Arturo_Perez-Reverte	23	160.51
+DTH6788	Los_perros_duros_no_bailan	Robert_Louis_Stevenson	20	5
+KLV1872	Orgullo_y_prejuicio	John_SteinbecK	53	185.25
+BUT4998	Lolita	Anonimo	28	246.78
+XBC5847	Tiempos_recios	Arturo_Perez-Reverte	33	268.13
+AZL1098	El_extranjero	Jane_Austen	65	28.9
+BZY0235	Fausto	Vladimir_Nabokov	22	55.75
+QQQ4712	Nuestra_Seniora_de_Paris	Mario_Vargas_Llosa	58	249.38
+BTX3816	El_jugador	Albert_Camus	54	232.71
+MLC7198	Los_rios_profundos	Johann_Wolfgang_Von_Goethe	7	141.87
+JZU0977	El_alquimista	Victor_Hugo	62	179.82
+AGQ7769	La_Flecha_Negra	Fiodor_Dostoyevski	50	99.67
+BXE0974	Los_viajes_de_Gulliver	Jose_Maria_Arguedas	63	44.79
+UFK9792	El_psicoanalista	Paulo_Coelho	39	60.52
+XRL3393	Le_dedico_mi_silencio	Robert_Louis_Stevenson	45	138.16
+GUN8655	Angeles_y_demoniosi	Jonathan_Swift	52	76.44
+NGQ6935	La_casa_de_los_espiritus	John_Katzenbach	58	104.53
+PWB4941	La_montania_magica	Mario_Vargas_Llosa	63	22.15
+NEW1762	Territorio_comanche	Dan_Brown	21	296.53
+QHZ8547	Adios_a_las_armas	Isabel_Allende	50	246.91
+PCS8992	Y_no_quedo_ninguno	Thomas_Mann	31	80.07
+VFI8064	A_sangre_fria	Arturo_Perez-Reverte	25	254.69
+XTM9385	El_mundo	Hernest_Hemingway	64	155.79
+VDL9379	Los_juegos_del_hambre	Agatha_Christie	34	259.55
+IFL0150	Romeo_y_Julieta	Truman_Capote	63	35.64
+JZQ8143	Suenios_de_robot	Simon_Sebag_Montefiore	31	60.51
+SXT1015	Mientras_agonizo	Suzanne_Collins	1	57.87
+KGO1734	Una_historia_del_mundo	William_Shakespeare	15	47.9
+SMI7078	Los_cachorros	Isaac_Asimov	27	148.98
+RAO4129	Stalingrado	William_Faulkner	18	80.13
+VYG3594	Los_demonios	Andrew_Marr	3	104.74
+HLC2748	El_senior_de_los_anillos_(Trilogia)	Mario_Vargas_Llosa	30	85.46
+GJM4671	Origenes	Jonathan_Trigg	36	50.78
+VYK6352	Armas_germenes_y_acero	Fiodor_Dostoyevski	34	65.26
+VSG3432	Bajo_bandera_negra	J.R.R._Tolkien	9	220.82
+OQK1590	Cometas_en_el_cielo	Lewis_Dartnell	4	100.56
+JXC1015	Robinson_Crusoe	Jared_Diamond	58	58.13
+TAB4639	El_color_que_cayo_del_cielo	David_Cordingly	43	26.91
+YXF2137	En_agosto_nos_vemos	Khaled_Hosseini	35	106.78
+SIR3963	Memorias_de_una_geisha	Daniel_Defoe	34	226.47
+ALH8812	Guerra_y_Paz	H._P._Lovecraft	50	296.1
+UCA0857	SPQR:_una_historia_de_la_antigua_Roma	Gabriel_Garcia_Marquez	10	8.77
+KLO8691	Catedral	Arthur_Golden	26	134.66
+HPM0950	Fahrenheit_451	Leon_Tolstoi	43	103.01
+JOF6762	Ojos_azules	Mary_Beard	43	1.24
+DEK2757	En_llamas	Raymond_Carver	2	61.18
+RRE8138	Trilogia_de_la_Fundacion	Ray_Bradbury	44	138.92
+JKE9650	La_metamorfosis	Arturo_Perez-Reverte	44	217.54
+BZX4462	Culpa_mia	Suzanne_Collins	37	174.37
+NFP3266	Sabotaje	Isaac_Asimov	4	29.28
+FIN
+000001 34460612 CRY6839 VYG3594 2
+000002 42302422 WPU8819 CTW5846 2
+000003 34460612 PQZ1316 XCC4070 2
+000004 46582367 IIM5175 MBQ9495 2
+000005 37751890 KWL0415 IMK4892 2
+000006 69200503 CPE5718 KGO1734 IUG2294 ILG7766 4
+000007 36699613 SMW0186 SBU9053 2
+000008 51235238 ZAL2738 1
+000009 60740809 XTM9385 VSG3432 CTW5846 3
+000010 72832218 HWM4049 MNL3677 VMW6915 3
+000011 47659552 QMI4747 IUI3314 NFP3266 QRH6838 4
+000012 69200503 DVL7760 UEJ1235 2
+000013 54393647 UCJ9882 SPM4763 2
+000014 33583840 KSX7995 WPU8819 JJV7549 JBR9372 4
+000015 27109544 WWT1581 OBD2849 CMP1150 HSE3213 4
+000016 65071478 RWW7975 1
+000017 38724322 RSK1164 HGN9910 HWM4049 3
+000018 11750801 KGO1734 CRY6839 HCT8192 VDL9379 4
+000019 32231860 DDQ0721 RWW7975 2
+000020 86898639 XIU2628 UEJ1235 2
+000021 47659552 XIU6076 VFI8064 2
+000022 92240876 BTX3816 DEK2757 2
+000023 65071478 FYV9055 QRH6838 2
+000024 66747161 KGO1734 EEJ4830 WYE2119 3
+000025 14268463 FYV9055 VFI8064 2
+000026 45834351 VFZ9435 BZY0235 TVR7016 3
+000027 17750908 QBL9575 DDQ0721 CKC4095 XJT3661 4
+000028 42302422 YZV6954 QKH2262 2
+000029 65830353 TOJ1764 EDQ0577 BZY0235 3
+000030 37751890 HGQ0131 RLQ7170 VMW6915 3
+000031 21344013 PCS8992 UXZ2187 BXE0974 JEN0751 4
+000032 96056368 GOG7446 JXK3142 HHR5161 3
+000033 86898639 DEK2757 FMX8255 CJN4376 3
+000034 33958767 CRY6839 RZX8790 2
+000035 67066631 JZC7527 CST1133 KSX7995 DVR5984 4
+000036 20449598 NEW1762 WMN3648 MLC7198 3
+000037 15129661 JSM8271 1
+000038 69200503 JXK3142 IIM5175 ZQY9966 3
+000039 47659552 YJI3961 NBL8415 2
+000040 21344013 ZQD4253 USM9579 CKR6798 IMC3155 4
+000041 92240876 SMI7078 RZX8790 EWI3090 OCI8959 4
+000042 87804471 JXK3142 ZPD6557 2
+000043 45002711 DPZ8059 AKU9740 KWL0415 3
+000044 33958767 LRV5687 XIU6076 JZC7527 3
+000045 11750801 WYE2119 1
+000046 72832218 SQB7146 IMK4892 2
+000047 15129661 WOF6634 RAO4129 QCA9584 FMX8255 4
+000048 14268463 BZY0235 PQZ1316 IFL0150 JNC0786 4
+000049 69200503 GKG6581 1
+000050 20610190 JZC7527 1
+000051 87804471 ELC8965 ZOY6470 2
+000052 81082011 JXK3142 CXW5879 KBF4088 CRR5443 4
+000053 35030611 HRT0664 1
+000054 61212473 JGG5049 1
+000055 88080249 NEO9165 PZP7176 MEH2993 MBB0685 4
+000056 85870289 HPP3360 1
+000057 83265244 JZU0977 PQB0775 WWT1581 EJE8138 4
+000058 34460612 SFR1226 GUN8655 2
+000059 81462164 EZP0333 CLG5566 2
+000060 27109544 FNM6936 ECT0289 WWT1581 3
+000061 69200503 WYE2119 UXZ2187 2
+000062 65830353 GWE4133 BDK4183 VSG3432 HPP3360 4
+000063 37751890 CRY6839 WGA2754 FNM6936 3
+000064 87804471 RNG2321 ICU6090 CXW5879 3
+000065 81462164 CMP1150 1
+000066 14500753 ALH8812 JLQ6546 OQK1590 3
+000067 79743481 EJE8138 1
+000068 49516360 PQZ1316 1
+000069 65071478 IPE3429 MWB2923 2
+000070 11750801 KLV1872 1
+000071 37328103 EZP0333 YJI3961 2
+000072 45181396 SFZ1256 BZY0235 XCC4070 3
+000073 21344013 QQQ4712 IMK4892 PQZ1316 VFZ9435 4
+000074 66747161 RII8346 CRR5443 2
+000075 35030611 ZLE2920 BUT4998 2
+000076 37751890 JBR9372 FWP8469 WPU8819 CKC4095 4
+000077 65830353 XIU2628 JSM8271 GDA4236 SMW0186 4
+000078 46582367 EBT7258 QYH7021 2
+000079 92240876 KWL0415 VMW6915 PPI9259 3
+000080 83265244 BXE0974 ALH8812 2
+000081 63602514 KPE7420 DVR5984 QKH2262 3
+000082 47659552 NGQ6935 1
+000083 60740809 DDU0764 PPI9259 IFL0150 3
+000084 57431952 DVL7760 USE5598 TBZ2657 3
+000085 58717040 FBO8724 1
+000086 54393647 BSX2922 IBP7411 OWU1533 3
+000087 87804471 VPN5351 EEJ4830 2
+000088 14268463 IFL0150 VMW6915 EHX6253 XBC5847 4
+000089 88080249 SQB7146 NFP3266 TAB4639 3
+000090 81082011 QRH6838 1
+000091 37751890 BTX3816 NEW1762 2
+000092 37751890 HPM0950 NBL8415 QVX9089 3
+000093 14268463 ETZ8565 1
+000094 33583840 RWW7975 RLQ7170 RSK1164 3
+000095 81462164 ULM8751 TBZ2657 TOJ1764 EBT7258 4
+000096 34460612 CKC4095 ZLE2920 2
+000097 42302422 TAB4639 RWW7975 ZOY6470 KTA8754 4
+000098 45181396 KLO8691 UCJ9882 2
+000099 57431952 VSG3432 JGG5049 2
+000100 57431952 JZQ8143 QHZ8547 UCA0857 BTX3816 4
+000101 49516360 NBL8415 LQA8555 VFZ9435 3
+000102 37328103 MBQ9495 JXK3142 2
+000103 72832218 KWL0415 BDK4183 JSM8271 3
+000104 83265244 PZP7176 HVZ1228 RSK1164 LJE6687 4
+000105 58717040 YZV6954 BZY0235 RNG2321 3
+000106 33583840 SFR1226 QXZ3375 ELC8965 YQX4537 4
+000107 60740809 DDU0764 VMW6915 2
+000108 42302422 EZP0333 XCC4070 CLG5566 3
+000109 91076543 MBQ9495 NEO9165 RZX8790 IFL0150 4
+000110 34460612 YXK1788 TDF6991 NBL8415 3
+
+
