@@ -1,0 +1,750 @@
+              EMPRESA DE TRANSPORTE TURISTICO
+====================================================================================================
+PLACA:              P9A-528
+CHOFER:             CASTILLO/MEJIA/GUSTAVO-ALONSO
+ASIENTOS LIBRES PC: 3
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Ica  Arequipa  Moquegua  Tacna
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 25171011  Nombre: CRUZ/JUGO/SANDRO-FAUSTO  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 39923112  Nombre: SEGURA/MALCA/RONY  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 87800799  Nombre: QUIROGA/SALAZAR/JOHNNY-ROBERTO  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 67418025  Nombre: MOSCOSO/SUELDO/MARINA  Destino: Moquegua
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 77484838  Nombre: EPIQUEN/ALAMO/NANCY  Destino: Ica
+       "PRIMERA CLASE" EXTRAS: Antifaz  Vino  Pantuflas  
+DNI: 78755618  Nombre: DE-LA-CUBA/JUGO/LUCERO-DELICIA  Destino: Moquegua
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 59297012  Nombre: AYALA/ZEVALLOS/JOHAN-ENRIQUE  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 64394265  Nombre: SALAZAR/GONZALES/DAVID-RAFAEL  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 31611146  Nombre: LANDEO/LARRIEGA/MARTIN  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 34057485  Nombre: VEGA/GARCIA/JANET-REBECA  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+====================================================================================================
+PLACA:              H9R-580
+CHOFER:             SAENZ/ARANDA/WILMER
+ASIENTOS LIBRES PC: 8
+ASIENTOS LIBRES CT: 1
+RUTA: 
+  Lima  Junin  Pasco  Pucallpa
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 76388967  Nombre: GONZALES/QUIO/ISABEL  Destino: Junin
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 50375303  Nombre: SANCHEZ/HUAYANAY/DIALY-LUCERO  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 19580504  Nombre: MONTERO/BOLANOS/OFELIA-BEATRIZ  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 81310110  Nombre: MENDOZA/EGUSQUIZA/ROSARIO  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 48184351  Nombre: LOPEZ/JAUREGUI/ROLANDO  Destino: Pasco
+       "PRIMERA CLASE" EXTRAS: Whisky  Gaseosa  Audifonos  Almohada  
+DNI: 54761731  Nombre: LOYOLA/IBEROS/ANGEL-GUSTAVO  Destino: Pucallpa
+       "PRIMERA CLASE" EXTRAS: Audifonos  Pisco  Antifaz  Pantuflas  Almohada  
+DNI: 31419360  Nombre: LAURA/WONG/MELVIN-HENRRY  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 50862708  Nombre: ZIMIC/SALAS/FRANCISCO  Destino: Junin
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 78500352  Nombre: IBEROS/VALDERRAMA/RAFAEL  Destino: Junin
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 95161027  Nombre: FALCON/POZO/WALTER  Destino: Junin
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 28546649  Nombre: LOPEZ/LAURA/FELICITA  Destino: Pasco
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Pisco  Antifaz  
+DNI: 81190754  Nombre: MEDINA/VELASQUEZ/MILENA-JENNY  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 19449476  Nombre: ROSEMBERG/LAU/JULIO-HENRRY  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 45828535  Nombre: SEDANO/MERCADO/FIORELLA-GLORIA  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 90983614  Nombre: ESCALANTE/ESPINO/EMIGDIO-FRANCISCO  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 83505958  Nombre: CONTRERAS/MEZA/ERIKA-BLANCA  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 46462527  Nombre: LOYOLA/MORI/NICOLAS-FERNANDO  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 87503190  Nombre: CASTILLO/CHUNG/FELICITA-ERIKA  Destino: Junin
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 26290971  Nombre: SANTISTEBAN/AYALA/CAROLA-MARITZA  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 78078115  Nombre: TSUKAZAN/AMEZQUITA/DELIA  Destino: Pasco
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Almohada  Whisky  Antifaz  
+DNI: 89863424  Nombre: SANTISTEBAN/BRAVO/EDGARD  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 78862029  Nombre: URBINA/HIJAR/RAFAEL  Destino: Pucallpa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 25504077  Nombre: LAU/VIZCARRA/HECTOR-ALEX  Destino: Pasco
+       "PRIMERA CLASE" EXTRAS: Whisky  Gaseosa  Antifaz  
+DNI: 35065161  Nombre: AURIS/ZIMIC/JAVIER-DANIEL  Destino: Pasco
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+====================================================================================================
+PLACA:              V1S-429
+CHOFER:             CALIXTO/TORRES/MIGUEL
+ASIENTOS LIBRES PC: 5
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Huanuco  Pucallpa  Yurimaguas  Iquitos
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 69975105  Nombre: VALDERRAMA/MENDOZA/LUIS-ADOLFO  Destino: Huanuco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 81274303  Nombre: BARRIOS/TOMASICHE/CARLOS-ALBERTO  Destino: Yurimaguas
+       "PRIMERA CLASE" EXTRAS: Almohada  Antifaz  
+DNI: 35956910  Nombre: VEGA/MUNOZ/GONZALO  Destino: Iquitos
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Almohada  
+DNI: 11743727  Nombre: REYES/TANG/EDWARD  Destino: Yurimaguas
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 27473221  Nombre: JUSTINO/NORABUENA/VIRGINIA-KARINA  Destino: Yurimaguas
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 54716824  Nombre: VALVERDE/SEGURA/MIGUEL-JOSE  Destino: Yurimaguas
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 28014253  Nombre: GONZALES/ARIAS/HENRY  Destino: Iquitos
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 13588661  Nombre: URBINA/CASTILLO/HELI  Destino: Yurimaguas
+       "PRIMERA CLASE" EXTRAS: Audifonos  
+DNI: 87334863  Nombre: URBINA/ANTEZANO/VALENTINA-PAULA  Destino: Iquitos
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 45877001  Nombre: SORIA/VILLA/HENRRY  Destino: Yurimaguas
+       "PRIMERA CLASE" EXTRAS: Whisky  Vino  Cobertor  Almohada  
+DNI: 29847168  Nombre: ALDAVE/ZEVALLOS/ROSARIO  Destino: Yurimaguas
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 89148118  Nombre: ZAMBRANO/LEYVA/ALVARO  Destino: Iquitos
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 65745002  Nombre: SINCHE/RIVERO/YVONNE-SILVANA  Destino: Yurimaguas
+       "PRIMERA CLASE" EXTRAS: Whisky  
+DNI: 52629673  Nombre: PASQUEL/QUIO/SURAMI-JANET  Destino: Yurimaguas
+       "PRIMERA CLASE" EXTRAS: Cobertor  Gaseosa  
+DNI: 90365520  Nombre: PALOMINO/ADAMS/SANDRO-RONALD  Destino: Huanuco
+       "PRIMERA CLASE" EXTRAS: Cobertor  Antifaz  Vino  Audifonos  
+====================================================================================================
+PLACA:              Z0V-608
+CHOFER:             ZARATE/URBINA/DELIA
+ASIENTOS LIBRES PC: 7
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Huaraz  Trujillo  Cajamarca  Chachapoyas  Tarapoto
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 59407188  Nombre: CANALES/MOYA/ALONSO-JULIO  Destino: Trujillo
+       "PRIMERA CLASE" EXTRAS: Antifaz  Whisky  Pisco  
+DNI: 23972672  Nombre: HIJAR/PAIRAZAMAN/JENNY-DELICIA  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 24833706  Nombre: HAZA/CABRERA/ALBERTO  Destino: Tarapoto
+       "PRIMERA CLASE" EXTRAS: Pantuflas  
+DNI: 52256304  Nombre: SUAREZ/MUNOZ/MADELEINE  Destino: Trujillo
+       "PRIMERA CLASE" EXTRAS: Antifaz  
+DNI: 26221442  Nombre: PRECIADO/PINTO/SURAMI-HELI  Destino: Cajamarca
+       "PRIMERA CLASE" EXTRAS: Almohada  Audifonos  Gaseosa  Antifaz  Pisco  
+DNI: 58187172  Nombre: SUAREZ/ZIMIC/MOISES  Destino: Cajamarca
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Vino  Whisky  
+DNI: 24829546  Nombre: DURAND/MEZA/WALDEMAR-EDGARD  Destino: Trujillo
+       "PRIMERA CLASE" EXTRAS: Cobertor  
+DNI: 78475257  Nombre: JAUREGUI/BRAVO/LUZ-SOFIA  Destino: Cajamarca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 95751208  Nombre: CORONEL/ZEGARRA/FIORELLA  Destino: Cajamarca
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 45783712  Nombre: POZO/CHUNG/RAFAEL  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 17711594  Nombre: MALDONADO/FLORIAN/JOHANA  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 45132265  Nombre: DIAZ/ANTEZANO/MAGALI-SILVANA  Destino: Huaraz
+       "PRIMERA CLASE" EXTRAS: Audifonos  Pantuflas  
+DNI: 94080926  Nombre: SORIA/CRUZ/MADELEINE  Destino: Tarapoto
+       "PRIMERA CLASE" EXTRAS: Whisky  Cobertor  Pisco  Audifonos  
+DNI: 98589725  Nombre: FORZANI/ANTEZANO/OSCAR-JOSE  Destino: Chachapoyas
+       "PRIMERA CLASE" EXTRAS: Antifaz  Vino  Cobertor  
+DNI: 62566305  Nombre: ROMERO/ALFARO/MONICA-JOHANA  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 27912250  Nombre: CUBA/CHUNG/ISRAEL-EDILBERTO  Destino: Cajamarca
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Almohada  Pantuflas  Vino  
+DNI: 93202947  Nombre: VILCARA/CORREA/VICTOR  Destino: Chachapoyas
+       "PRIMERA CLASE" EXTRAS: Vino  Pantuflas  
+DNI: 73831431  Nombre: MALDONADO/RAMIREZ/SILVANA  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 55626526  Nombre: MOSCOSO/ARIAS/FIORELLA  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 79875775  Nombre: SALAS/AGUERO/DANIEL  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 29337157  Nombre: VIZCARDO/YEP/GUIDA-YOLANDA  Destino: Tarapoto
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 62324793  Nombre: GAVIDIA/MORENO/ISRAEL-ROLANDO  Destino: Cajamarca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+====================================================================================================
+PLACA:              Q8B-464
+CHOFER:             ZAMORA/CABRERA/CARMEN
+ASIENTOS LIBRES PC: 9
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Huaraz  Trujillo  Chiclayo  Piura  Sullana  Tumbes
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 15561764  Nombre: VILLEGAS/CASTRO/ALONSO  Destino: Sullana
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 70532120  Nombre: CRUZ/FUENTES/JOHANA-YDALI  Destino: Tumbes
+       "PRIMERA CLASE" EXTRAS: Almohada  Antifaz  
+DNI: 42804086  Nombre: FARFAN/FALCON/ELIZABETH-KARIN  Destino: Chiclayo
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 52338712  Nombre: CHAVEZ/PRADO/SILVANA  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 79420973  Nombre: AURIS/JOLAY/DIANA  Destino: Piura
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 23716946  Nombre: SHIRAKAWA/MIRANDA/MADELEINE  Destino: Piura
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 50365593  Nombre: SUAREZ/BRAVO/MARIELLA-TATIANA  Destino: Sullana
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 33332473  Nombre: CARO/POLO/SANDRO  Destino: Tumbes
+       "PRIMERA CLASE" EXTRAS: Pisco  Almohada  
+DNI: 14170550  Nombre: LANDEO/CHAVARRI/FAUSTO  Destino: Chiclayo
+       "PRIMERA CLASE" EXTRAS: Vino  Whisky  Cobertor  
+DNI: 66433105  Nombre: SERRANO/RAMIREZ/ARTURO-GUSTAVO  Destino: Chiclayo
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 24995742  Nombre: MEREL/TAVERA/WALTER  Destino: Chiclayo
+       "PRIMERA CLASE" EXTRAS: Vino  Gaseosa  Audifonos  
+DNI: 69639726  Nombre: ROJAS/PATINO/GONZALO-JAIR  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 69158037  Nombre: PEREZ/FARFAN/RICHARD-SANDRO  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 64877170  Nombre: CALIXTO/TOMASICHE/MONICA-DORIS  Destino: Chiclayo
+       "PRIMERA CLASE" EXTRAS: Gaseosa  
+DNI: 32904023  Nombre: PRADO/FORZANI/LOURDES  Destino: Chiclayo
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 33718985  Nombre: LANDEO/ESTRADA/MIGUEL-ALEX  Destino: Sullana
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Pisco  Almohada  Whisky  Pantuflas  
+DNI: 52650685  Nombre: GUEVARA/MIYAKE/MILENA  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 17913944  Nombre: PALOMARES/SANTISTEBAN/HENRRY  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 53166028  Nombre: CANO/CHUNG/EMILIO-NICOLAS  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 79464412  Nombre: PORTUGAL/RAFFO/ALEXANDER  Destino: Piura
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Vino  Almohada  Pantuflas  Pisco  
+DNI: 79475585  Nombre: RETTO/ARCA/ANNIE-MAGDA  Destino: Sullana
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 62229503  Nombre: BENITES/BENAVENTE/FLOR-PATRICIA  Destino: Chiclayo
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 24716202  Nombre: PINTO/CALIXTO/SHIRLEY  Destino: Sullana
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 22010173  Nombre: HERNANDEZ/BARRIOS/EMILIO  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 69324480  Nombre: FLORES/IPARRAGUIRRE/HENRRY-RICARDO  Destino: Piura
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+====================================================================================================
+PLACA:              M3H-482
+CHOFER:             CABRERA/MORENO/DELIA-ESTEFANIA
+ASIENTOS LIBRES PC: 9
+ASIENTOS LIBRES CT: 15
+RUTA: 
+  Lima  Huacho  Pasco
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 61358228  Nombre: CABRERA/LUNA/SHIRLEY-ISABEL  Destino: Huacho
+       "PRIMERA CLASE" EXTRAS: Pisco  Whisky  
+DNI: 87000267  Nombre: BENAVENTE/ARANDA/MOISES  Destino: Huacho
+       "PRIMERA CLASE" EXTRAS: Audifonos  Vino  Almohada  
+DNI: 67592501  Nombre: MORI/SUAREZ/EDILBERTO-JESUS  Destino: Huacho
+       "PRIMERA CLASE" EXTRAS: Almohada  Gaseosa  Pisco  Vino  Audifonos  
+DNI: 56196922  Nombre: ORTIZ/DURAND/RAUL  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 17366750  Nombre: FERNANDEZ/ORTEGA/ELIZABETH-ELIZABETH  Destino: Huacho
+       "PRIMERA CLASE" EXTRAS: Audifonos  Whisky  
+DNI: 24304492  Nombre: ROMERO/PALOMARES/GLORIA-TATIANA  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 25669913  Nombre: VARGAS/GUEVARA/HUMBERTO-ALBERTO  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 86402303  Nombre: RUIZ/RUIZ/OFELIA-DELIA  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 26976877  Nombre: TORO/DE-LA-CUBA/DIALY-DIANA  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 42928709  Nombre: HERNANDEZ/MALCA/VIRGINIA  Destino: Huacho
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+====================================================================================================
+PLACA:              G8Y-563
+CHOFER:             FLORENCIO/POLO/FIORELLA-ERIKA
+ASIENTOS LIBRES PC: 15
+ASIENTOS LIBRES CT: 18
+RUTA: 
+  Lima  Ayacucho  Abancay
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 85152986  Nombre: MUNOZ/VERGEL/EDGAR  Destino: Abancay
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Pisco  Vino  Pantuflas  Antifaz  
+DNI: 21589652  Nombre: VEGA/SORIA/HENRRY  Destino: Abancay
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 17972674  Nombre: PISCOYA/PORTUGAL/WALDEMAR-GUSTAVO  Destino: Abancay
+       "PRIMERA CLASE" EXTRAS: Whisky  Cobertor  Audifonos  
+DNI: 48832211  Nombre: FORZANI/CARO/ALONSO  Destino: Ayacucho
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 26247257  Nombre: NARVAEZ/CASTILLO/JESUS-RAFAEL  Destino: Ayacucho
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 33321424  Nombre: MORALES/QUIROGA/SILVANA-GLENDA  Destino: Ayacucho
+       "PRIMERA CLASE" EXTRAS: Almohada  Pisco  Audifonos  
+DNI: 60184235  Nombre: ASMAD/ACUNA/ANNIE-OFELIA  Destino: Abancay
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 30013565  Nombre: SUCHERO/EPIQUEN/EDGAR-JAVIER  Destino: Abancay
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 69965717  Nombre: VELASQUEZ/HUAYANAY/EDGARD-HENRY  Destino: Abancay
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 18297138  Nombre: AYALA/VIZCARDO/EDGAR-MANUEL  Destino: Abancay
+       "PRIMERA CLASE" EXTRAS: Pantuflas  
+DNI: 59347357  Nombre: ASMAD/CHAVEZ/ADRIA  Destino: Ayacucho
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 47241133  Nombre: MIYAKE/MEREL/MADELEINE-YLIANA  Destino: Ayacucho
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 97403853  Nombre: PISCOYA/MALCA/MARIA-MONICA  Destino: Abancay
+       "PRIMERA CLASE" EXTRAS: Cobertor  Gaseosa  Antifaz  
+DNI: 91932848  Nombre: MEJIA/ZEGARRA/GIOVANA  Destino: Abancay
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 88830718  Nombre: SHIRAKAWA/SAONA/VICTORIA-MILAGROS  Destino: Ayacucho
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+====================================================================================================
+PLACA:              W0O-821
+CHOFER:             CHUNG/ZUNIGA/ZKENIA-IRMA
+ASIENTOS LIBRES PC: 5
+ASIENTOS LIBRES CT: 2
+RUTA: 
+  Lima  Ayacucho  Abancay  Cuzco  Puno
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 90237332  Nombre: ESPINOZA/CASTRO/YDALI-GIOVANA  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 16151792  Nombre: DURAND/CASTRO/FLOR-MARTHA  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 17182437  Nombre: CALDERON/ORTEGA/GUILLERMO  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 42798099  Nombre: ZEGARRA/MUNOZ/SONIA-GUIDA  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 58464455  Nombre: CERNA/PAIRAZAMAN/FIORELLA-MARGOT  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 96659352  Nombre: BRAVO/VIZCARRA/ROBERTO  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 75432503  Nombre: MONTERO/MONTERO/ANNIE  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 89473250  Nombre: JUSTINO/CRUZ/WILLIAMS  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 38934372  Nombre: FIGUEROA/COLLADO/EVERT  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 19336444  Nombre: MEJIA/DIAZ/BLANCA-MILAGROS  Destino: Puno
+       "PRIMERA CLASE" EXTRAS: Antifaz  Gaseosa  
+DNI: 44248752  Nombre: HENRIQUEZ/LEYVA/FERNANDO-WALTER  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 85871751  Nombre: AYALA/LAURA/JANET  Destino: Puno
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Pisco  Vino  
+DNI: 40112594  Nombre: CARO/RARAZ/CHRISTIAN-RONAL  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 35679358  Nombre: MOYA/ARANDA/JOHNNY  Destino: Puno
+       "PRIMERA CLASE" EXTRAS: Pisco  Pantuflas  
+DNI: 32395559  Nombre: SHIRAKAWA/ORTEGA/ANGEL  Destino: Cuzco
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Vino  
+DNI: 73185299  Nombre: CORTES/LANDA/SURAMI  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 90665950  Nombre: SAM/YALLICO/INES  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 99289525  Nombre: PORTUGAL/BENAVENTE/JOHANA-GLORIA  Destino: Cuzco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 31879918  Nombre: MEJIA/HUAYANAY/CHRISTIAN-ALONSO  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 55552996  Nombre: SUCHERO/PRECIADO/MILAGROS-ERICKA  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 44679500  Nombre: CORREA/ARCA/HELI  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 97934179  Nombre: SANCHEZ/PRECIADO/SANDRO-WILMER  Destino: Puno
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+====================================================================================================
+PLACA:              Q6F-925
+CHOFER:             JOLAY/CHUMPITAZ/WALTER
+ASIENTOS LIBRES PC: 7
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Arequipa  Juliaca  Puno
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 41368424  Nombre: DIAZ/REYES/WALTER-EDGAR  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 61002359  Nombre: DELGADO/GONZALES/GUILLERMO-ALFONSO  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 56364198  Nombre: WONG/MARTEL/MADELEINE  Destino: Juliaca
+       "PRIMERA CLASE" EXTRAS: Audifonos  Pisco  
+DNI: 23086600  Nombre: ARCA/AMEZQUITA/EDRIC-RONALD  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 24596637  Nombre: LAU/BACA/MONICA-TERESA  Destino: Arequipa
+       "PRIMERA CLASE" EXTRAS: Pantuflas  
+DNI: 19477308  Nombre: GAVIDIA/MENDOZA/RONALD-JOHNNY  Destino: Arequipa
+       "PRIMERA CLASE" EXTRAS: Antifaz  
+DNI: 84857574  Nombre: ZARATE/ACUNA/MILENA-CINTHIA  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 21814849  Nombre: MARTEL/ASMAD/BRUNO-ROBERTO  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 15171622  Nombre: CORRALES/TSUKAZAN/IRMA-LOURDES  Destino: Juliaca
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Vino  
+DNI: 39082665  Nombre: GARCIA/ASTETE/VICTOR-EDGAR  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 32093968  Nombre: MARTEL/MERCADO/TERESA-TERESA  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 84265465  Nombre: BRAVO/CORTES/JANET-FLOR  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 47632196  Nombre: MORALES/VALVERDE/INES-MARTHA  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 22280452  Nombre: GONZALES/MALDONADO/ZKENIA-ERIKA  Destino: Arequipa
+       "PRIMERA CLASE" EXTRAS: Cobertor  Audifonos  Antifaz  Whisky  
+DNI: 93553218  Nombre: SUAREZ/BOLANOS/RAFAEL  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 77642521  Nombre: SORIA/CASTILLO/LUIS-GUSTAVO  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 58821689  Nombre: CORONEL/CHUMPITAZ/HELI  Destino: Juliaca
+       "PRIMERA CLASE" EXTRAS: Audifonos  Gaseosa  
+DNI: 37787771  Nombre: ACUNA/AYLLON/BLANCA-LUZ  Destino: Juliaca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 99842319  Nombre: MARTINEZ/MARTINEZ/CARMELA  Destino: Arequipa
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Audifonos  Cobertor  
+DNI: 35584593  Nombre: LAM/VIZCARDO/MILAGROS-YVONNE  Destino: Arequipa
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+====================================================================================================
+PLACA:              G7Y-809
+CHOFER:             TABORI/ARIAS/ROSARIO
+ASIENTOS LIBRES PC: 9
+ASIENTOS LIBRES CT: 14
+RUTA: 
+  Lima  Arequipa  Cuzco  Puerto-Maldonado
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 87813843  Nombre: AYALA/ACUNA/RONY-ALEX  Destino: Puerto-Maldonado
+       "PRIMERA CLASE" EXTRAS: Antifaz  Cobertor  Whisky  Pisco  
+DNI: 15988939  Nombre: RAMIREZ/ASTETE/KARINA-ESTEFANIA  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 94675504  Nombre: VILLEGAS/PALOMINO/DORIS-FREYSA  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 41036366  Nombre: JUSTINO/LOYOLA/JENNY-MAGDA  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 35039741  Nombre: ACUNA/YINO/ROCIO-YOLANDA  Destino: Puerto-Maldonado
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Pisco  
+DNI: 63437380  Nombre: PINTO/CABELLO/SILVIA-FELICITA  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 63627446  Nombre: VILLA/SEDANO/MARTIN-JUVENAL  Destino: Puerto-Maldonado
+       "PRIMERA CLASE" EXTRAS: Audifonos  
+DNI: 39598526  Nombre: GONZALES/AGUIRRE/EMILIO-EMIGDIO  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 28119151  Nombre: ARROYO/GORDILLO/MARIA-HELI  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 20864087  Nombre: ZEGARRA/CASANOVA/ESTEFANIA  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 18843347  Nombre: MEREL/SALAZAR/ANNIE-LOURDES  Destino: Puerto-Maldonado
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+====================================================================================================
+PLACA:              F1D-694
+CHOFER:             RODRIGUEZ/SERRANO/CESAR-JAIME
+ASIENTOS LIBRES PC: 4
+ASIENTOS LIBRES CT: 11
+RUTA: 
+  Lima  Huancavelica  Ayacucho
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 97704824  Nombre: MORI/CARO/FREYSA  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 73775471  Nombre: LOZADA/AGUERO/ANTONIO-ELOY  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 11602775  Nombre: HIJAR/ARCA/ADOLFO  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 99995135  Nombre: ARCA/LEIVA/DELICIA-ROSA  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 20790905  Nombre: VILLA/YALLICO/TATIANA-NANCY  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 20229814  Nombre: SOLIS/CHUNG/ROLANDO  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 99250306  Nombre: AQUINO/BACA/ALEX  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 78377191  Nombre: DURAND/VALVERDE/ENRIQUE-JORGE  Destino: Huancavelica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+====================================================================================================
+PLACA:              I1X-633
+CHOFER:             VILCARA/JUGO/JULIO
+ASIENTOS LIBRES PC: 5
+ASIENTOS LIBRES CT: 9
+RUTA: 
+  Lima  Huancavelica  Pasco  Huanuco  Tingo-Maria
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 48090595  Nombre: TRIGUEROS/JUGO/LUZ  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 69990549  Nombre: PRADO/VERGEL/CARLOS-JULIAN  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 22344625  Nombre: CUBA/POMAJAMBO/VICTORIA-FIORELLA  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 50349647  Nombre: VILLEGAS/LEIVA/FELICITA  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 47866569  Nombre: NORABUENA/PRECIADO/CINTHIA  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 47944203  Nombre: PAIRAZAMAN/ALAMO/MOISES-MIGUEL  Destino: Huanuco
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 42593311  Nombre: PISCOYA/BRAVO/CESAR-BRUNO  Destino: Tingo-Maria
+       "PRIMERA CLASE" EXTRAS: Almohada  Antifaz  
+DNI: 99315346  Nombre: CASTRO/SUAREZ/ROLANDO  Destino: Huanuco
+       "PRIMERA CLASE" EXTRAS: Audifonos  Antifaz  
+DNI: 38637282  Nombre: TABORI/CARBAJAL/YDALI-MAGDA  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 43053402  Nombre: BENAVENTE/ZIMIC/MADELEINE-ZKENIA  Destino: Tingo-Maria
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 22899205  Nombre: SALAZAR/CORRALES/LORENA-IRMA  Destino: Huanuco
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+====================================================================================================
+PLACA:              H7K-813
+CHOFER:             AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO
+ASIENTOS LIBRES PC: 8
+ASIENTOS LIBRES CT: 6
+RUTA: 
+  Lima  Huaraz  Huanuco  Moyobamaba
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 78239339  Nombre: SUELDO/RUIZ/ANTONIO  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 93845419  Nombre: QUIO/GAVIDIA/DIALY-FELICITA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 52097922  Nombre: CUBA/DURAND/YVONNE  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 37110873  Nombre: VERGEL/HIJAR/JESUS  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 42157219  Nombre: LUNA/CUEVA/RICHARD  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 52061162  Nombre: CORONADO/FIGUEROA/JOHAN  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 88956889  Nombre: CHUMPITAZ/CARBAJAL/MARITZA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 79372768  Nombre: BERROCAL/YALLICO/ANNIE-SOFIA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 99251008  Nombre: SALAS/PENA/KARINA-CARMEN  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 80208319  Nombre: SUAREZ/MORALES/AMARU  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 42172802  Nombre: PRECIADO/RIVERO/JOHANA  Destino: Moyobamaba
+       "PRIMERA CLASE" EXTRAS: Vino  Pantuflas  Audifonos  
+DNI: 92039993  Nombre: VARGAS/ALAMO/DANIEL  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 79140840  Nombre: TORREALBA/ARCA/VICTORIA-GLENDA  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 86828079  Nombre: PRECIADO/ADAMS/ERIKA-DELIA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 44229880  Nombre: PALOMARES/BARRIOS/EDWARD-CESAR  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 54073409  Nombre: RAFFO/ARIAS/SURAMI-ANNIE  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 74028555  Nombre: ANTEZANO/SEGURA/TERESA-DELIA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 17266507  Nombre: FLORENCIO/CORONADO/ALONSO  Destino: Huaraz
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 33713901  Nombre: VILLEGAS/CASTRO/SOFIA-VIRGINIA  Destino: Moyobamaba
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+====================================================================================================
+PLACA:              W4M-272
+CHOFER:             SHIRAKAWA/FLORIAN/JAIME-JULIAN
+ASIENTOS LIBRES PC: 10
+ASIENTOS LIBRES CT: 11
+RUTA: 
+  Lima  Moquegua  Tacna
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 84551054  Nombre: PAREDES/PATINO/CHRISTIAN  Destino: Moquegua
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 45749698  Nombre: CORREA/VIZCARDO/MIGUEL  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 87027873  Nombre: AURIS/SALAZAR/MADELEINE-GUIDA  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 72652460  Nombre: VALVERDE/MAEIREIZO/MELVIN-JAIR  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 97738037  Nombre: SOMA/PINTO/LOURDES-SONIA  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 69937474  Nombre: DIAZ/VELASQUEZ/MARINA-OFELIA  Destino: Moquegua
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 15210391  Nombre: QUIROGA/CASANOVA/BRUNO  Destino: Moquegua
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 45232784  Nombre: VASQUEZ/PAZ/ALEX-MARTIN  Destino: Tacna
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 29594780  Nombre: PALOMARES/VERA/HENRRY-HUMBERTO  Destino: Moquegua
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Whisky  
+====================================================================================================
+PLACA:              S0M-437
+CHOFER:             COLLADO/VILLA/RAUL
+ASIENTOS LIBRES PC: 9
+ASIENTOS LIBRES CT: 13
+RUTA: 
+  Lima  Trujillo  Piura  Tumbes
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 63124303  Nombre: GAVIDIA/ESCALANTE/EVERT-GONZALO  Destino: Piura
+       "PRIMERA CLASE" EXTRAS: Pisco  Whisky  
+DNI: 28390487  Nombre: IPARRAGUIRRE/PAREDES/RAUL  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 50222718  Nombre: GORDILLO/YINO/YVONNE-ROSARIO  Destino: Piura
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 47917936  Nombre: RAFFO/CHUNG/ADRIA-GLORIA  Destino: Tumbes
+       "PRIMERA CLASE" EXTRAS: Vino  Audifonos  
+DNI: 59608456  Nombre: LANDEO/SUELDO/ADOLFO  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 80294521  Nombre: CHUMPITAZ/ALCOCER/ANGEL-ERICK  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 18523250  Nombre: CHUNG/LEE/ALVARO  Destino: Tumbes
+       "PRIMERA CLASE" EXTRAS: Almohada  Vino  
+DNI: 19291013  Nombre: RUIZ/GORDILLO/CAROLA-ERIKA  Destino: Trujillo
+       "PRIMERA CLASE" EXTRAS: Almohada  
+DNI: 47925388  Nombre: MIRANDA/CHUMPITAZ/ALFONSO  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 80048864  Nombre: JUSTINO/CASTILLO/SANDRO-CHRISTIAN  Destino: Tumbes
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 98297137  Nombre: RETAMOSO/BARRERA/OSCAR  Destino: Trujillo
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 73535476  Nombre: AYALA/SANCHEZ/MARIA-TERESA  Destino: Piura
+       "PRIMERA CLASE" EXTRAS: Pantuflas  Vino  Pisco  Almohada  
+DNI: 62935160  Nombre: CABRERA/CANALES/GUILLERMO-EDRIC  Destino: Piura
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 23928045  Nombre: ARCA/VILCA/RONALD  Destino: Tumbes
+       "PRIMERA CLASE" EXTRAS: Antifaz  Audifonos  Whisky  
+====================================================================================================
+PLACA:              U3G-207
+CHOFER:             PEREZ/ANTEZANO/DAVID-CARLOS
+ASIENTOS LIBRES PC: 7
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Pisco  Ica  Nazca
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 91897732  Nombre: GAMARRA/ALCOCER/VIRGINIA  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 43488351  Nombre: MINAYA/CERNA/LORENA-FIORELLA  Destino: Nazca
+       "PRIMERA CLASE" EXTRAS: Audifonos  Antifaz  Pisco  Whisky  
+DNI: 68445757  Nombre: LANDA/PISCOYA/CHRISTIAN  Destino: Pisco
+       "PRIMERA CLASE" EXTRAS: Pisco  Vino  
+DNI: 65802912  Nombre: ZAMBRANO/MOSCOSO/OFELIA-MARIA  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 71984468  Nombre: IPARRAGUIRRE/VILLEGAS/NICOLAS-EDILBERTO  Destino: Pisco
+       "PRIMERA CLASE" EXTRAS: Audifonos  Almohada  Cobertor  Whisky  
+DNI: 53759600  Nombre: PRADO/FALCON/EDGAR-RICHARD  Destino: Pisco
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 83302451  Nombre: HENRIQUEZ/ESPINO/BEATRIZ  Destino: Pisco
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 40348917  Nombre: VEGA/TSUKAZAN/VALENTINA  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 55661032  Nombre: FLORIAN/MORALES/YDALI  Destino: Ica
+       "PRIMERA CLASE" EXTRAS: Almohada  Whisky  
+DNI: 74067467  Nombre: YEP/ZAVALETA/ROSARIO-MARIBEL  Destino: Pisco
+       "PRIMERA CLASE" EXTRAS: Gaseosa  Cobertor  Audifonos  Almohada  Vino  
+DNI: 30057152  Nombre: CHUMPITAZ/PALOMARES/VIRGINIA  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 31193794  Nombre: GARCIA/YINO/AMERICO-WALDEMAR  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 19515050  Nombre: ARCA/AQUINO/DELICIA  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 53693075  Nombre: HENRIQUEZ/PORTUGAL/ALEX  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 12663268  Nombre: BARRERA/FLORES/ENRIQUE  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 74032894  Nombre: CERNA/HIJAR/JOSE-ROLANDO  Destino: Nazca
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 41347722  Nombre: MEJIA/FLORIAN/ARTURO  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 57263719  Nombre: PRADO/TORREALBA/CARMEN-JANET  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 78922174  Nombre: ALAMO/MEZA/ALVARO  Destino: Pisco
+       "PRIMERA CLASE" EXTRAS: Pisco  Whisky  Almohada  
+DNI: 94326707  Nombre: CHANG/SEGURA/ANGEL  Destino: Ica
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+====================================================================================================
+PLACA:              W4X-437
+CHOFER:             ZEGARRA/CABELLO/CINTHIA-MILENA
+ASIENTOS LIBRES PC: 5
+ASIENTOS LIBRES CT: 0
+RUTA: 
+  Lima  Chiclayo  Paita  Sullana  Talara
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 16552775  Nombre: YALLICO/PAREDES/LOURDES-CARMELA  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 39417975  Nombre: MEJIA/DE-LA-HAZA/FRANCISCO-EDGAR  Destino: Talara
+       "PRIMERA CLASE" EXTRAS: Whisky  Gaseosa  
+DNI: 22777006  Nombre: ASMAD/PINTO/MARIA-LORENA  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 89298238  Nombre: ALFARO/PRECIADO/JOHNNY  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 27329072  Nombre: CALIXTO/CASTILLO/ERICK-PAUL  Destino: Talara
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 77191257  Nombre: CORRALES/ZUNIGA/JENNY  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 66066730  Nombre: SAKAGUCHI/MORI/CARLOS-RONAL  Destino: Paita
+       "PRIMERA CLASE" EXTRAS: Vino  
+DNI: 73786035  Nombre: ORTIZ/EPIQUEN/HENRY-ISRAEL  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 98140264  Nombre: ALAMO/ZEGARRA/ISRAEL-GUSTAVO  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 76685676  Nombre: VIZCARDO/SINCHE/MARIBEL  Destino: Talara
+       "PRIMERA CLASE" EXTRAS: Pantuflas  
+DNI: 38913831  Nombre: FUENTES/TSUKAZAN/PATRICIA-OFELIA  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 13245501  Nombre: ESCALANTE/YINO/EDWARD-GONZALO  Destino: Talara
+       "PRIMERA CLASE" EXTRAS: Cobertor  Antifaz  Pantuflas  
+DNI: 73914283  Nombre: CASANOVA/CARBAJAL/RICARDO-ISRAEL  Destino: Paita
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 57690875  Nombre: NORABUENA/VILLEGAS/ARTURO-RAFAEL  Destino: Talara
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 18869687  Nombre: ALAMO/PAIRAZAMAN/MIGUEL-ROBERTO  Destino: Talara
+       "PRIMERA CLASE" EXTRAS: Antifaz  Gaseosa  
+====================================================================================================
+PLACA:              M9J-101
+CHOFER:             NORABUENA/ZEGARRA/DELICIA
+ASIENTOS LIBRES PC: 10
+ASIENTOS LIBRES CT: 17
+RUTA: 
+  Lima  Huacho  Cimbote
+----------------------------------------------------------------------------------------------------
+LISTA DE PASAJEROS: 
+----------------------------------------------------------------------------------------------------
+DNI: 44888415  Nombre: ARANDA/MINAYA/JANET-CINTHIA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 33397650  Nombre: RONDON/EGUSQUIZA/CARMELA-VALENTINA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 49087435  Nombre: GALLO/MARTINEZ/VICTOR-GUILLERMO  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 74217478  Nombre: LOZADA/ARGUEDAS/FELICITA-VALENTINA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   Valija  - Tarifa Extra: 85.5
+DNI: 36380447  Nombre: RIVERO/RETTO/JESUS  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 59162728  Nombre: HUAYANAY/CORTES/GLENDA-MARINA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 48467976  Nombre: BENITES/SANCHEZ/MARGOT-DELICIA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 91510172  Nombre: INGA/FLORES/CESAR-ADOLFO  Destino: Cimbote
+       "PRIMERA CLASE" EXTRAS: Almohada  Cobertor  
+DNI: 90010594  Nombre: EGUSQUIZA/BERROCAL/DORIS-NANCY  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   - Tarifa Extra: 0.0
+DNI: 79901434  Nombre: SALAZAR/FLORENCIO/SANDRO-JOHNNY  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   Almuerzo  - Tarifa Extra: 55.9
+DNI: 75454254  Nombre: CAMACHO/AGUERO/ELIA-ROSA  Destino: Cimbote
+       "PRIMERA CLASE" EXTRAS: Vino  Cobertor  
+DNI: 62303425  Nombre: CABRERA/MORI/GLENDA  Destino: Cimbote
+       "PRIMERA CLASE" EXTRAS: Pisco  Gaseosa  Whisky  Almohada  Antifaz  
+DNI: 51673086  Nombre: SAM/ESTRADA/MARINA-ESTEFANIA  Destino: Cimbote
+         "CLASE TURISTA" EXTRAS:   Valija  Almuerzo  - Tarifa Extra: 141.4
+DNI: 89429489  Nombre: SERRANO/IPARRAGUIRRE/VIRGINIA  Destino: Cimbote
+       "PRIMERA CLASE" EXTRAS: Almohada  Antifaz  Whisky  Vino  
+====================================================================================================
