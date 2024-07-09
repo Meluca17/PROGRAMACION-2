@@ -1,0 +1,113 @@
+Tipo      Carnet         Nombre                                                           Cel|Anexo|Area
+E      17750908       Hernandez Barrios Emilio                                              -
+Libros Prestados:                                                     
+
+
+E      26916299       Diaz Antezano Magali Silvana                                          -
+Libros Prestados:                                                     
+
+
+E      14268463       Raffo Chung Adria Gloria                                              -
+Libros Prestados:                                                     
+
+
+E      37500242       Vasquez Paz Alex Martin                                               -
+Libros Prestados:                                                     
+
+
+A      61212473       Castro Suarez Rolando                                                 -
+Libros Prestados:                                                     
+
+
+E      65071478       Mejia Diaz Blanca Milagros                                            -
+Libros Prestados:                                                     
+
+
+A      96056368       Pasquel Quio Surami Janet                                             -
+Libros Prestados:                                                     
+
+
+E      99215341       Raffo Arias Surami Annie                                              -
+Libros Prestados:                                                     
+
+
+A      33958767       Aquino Toro Valentina Rocio                                           -
+Libros Prestados:                                                     
+
+
+A      72832218       Corrales Tsukazan Irma Lourdes                                        -
+Libros Prestados:                                                     
+
+
+A      63602514       Auris Zimic Javier Daniel                                             -
+Libros Prestados:                                                     
+
+
+D      49516360       Delgado Gonzales Guillermo Alfonso                                    -
+Libros Prestados:                                                     
+
+
+E      15129661       Wong Martel Madeleine                                                 -
+Libros Prestados:                                                     
+
+
+A      87804471       Cerna Durand Martin                                                   -
+Libros Prestados:                                                     
+
+
+D      37751890       Shirakawa Miranda Madeleine                                           -
+Libros Prestados:                                                     
+
+
+E      66152145       Salas Aguero Daniel                                                   -
+Libros Prestados:                                                     
+
+
+E      33115577       Chumpitaz Iberos Ronal                                                -
+Libros Prestados:                                                     
+
+
+A      55917355       Valverde Flores Irma Ydali                                            -
+Libros Prestados:                                                     
+
+
+D      77001234       Diaz Correa Irma Virginia                                             -
+Libros Prestados:                                                     
+
+
+D      61039260       Mejia De La Haza Francisco Edgar                                      -
+Libros Prestados:                                                     
+
+
+A      54393647       Norabuena Preciado Cinthia                                            -
+Libros Prestados:                                                     
+
+
+A      45834351       Velasquez Huayanay Edgard Henry                                       -
+Libros Prestados:                                                     
+
+
+E      11750801       Shirakawa Ortega Angel                                                -
+Libros Prestados:                                                     
+
+
+D      83265244       Pairazaman Alamo Moises Miguel                                        -
+Libros Prestados:                                                     
+
+
+E      35030611       Inga Flores Cesar Adolfo                                              -
+Libros Prestados:                                                     
+
+
+E      50860318       Prado Vergel Carlos Julian                                            -
+Libros Prestados:                                                     
+
+
+D      81082011       Arroyo Gordillo Maria Heli                                            -
+Libros Prestados:                                                     
+
+
+E      92240876       Vega Garcia Janet Rebeca                                              -
+Libros Prestados:                                                     
+
+
